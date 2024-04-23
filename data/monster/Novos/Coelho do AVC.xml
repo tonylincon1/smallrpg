@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Coelho do AVC" nameDescription="Coelho do AVC" race="venom" experience="8000" speed="720" manacost="0">
+<health now="11000" max="11000"/>
+<look type="262" corpse="7338"/>
+<targetchange interval="5000" chance="12"/>
+<strategy attack="100" defense="0"/>
+<flags>
+<flag summonable="1"/>
+<flag attackable="1"/>
+<flag hostile="1"/>
+<flag illusionable="1"/>
+<flag convinceable="0"/>
+<flag pushable="0"/>
+<flag canpushitems="1"/>
+<flag canpushcreatures="0"/>
+<flag targetdistance="1"/>
+<flag staticattack="90"/>
+<flag runonhealth="0"/>
+</flags>
+<attacks>
+<attack name="melee" interval="2000" min="-700" max="-1000"/>
+<attack name="holy" interval="4000" chance="100" range="7" min="-400" max="-600">
+<attribute key="shootEffect" value="holy"/>
+</attack>
+</attacks>
+<defenses armor="16" defense="19"/>
+<elements>
+<element physicalPercent="1"/>
+<element holyPercent="1"/>
+<element deathPercent="10"/>
+<element firePercent="-1"/>
+<element energyPercent="-1"/>
+<element icePercent="15"/>
+<element earthPercent="1"/>
+</elements>
+<immunities>
+<immunity invisible="1"/>
+</immunities>
+<voices interval="5000" chance="10">
+<voice sentence="Zuuuuu!"/>
+</voices>
+<loot>
+<item id="2148" countmax="25" chance="36500"/><!-- gold coin -->
+<item id="1987" chance="5000"/><!-- terramite legs -->
+</loot>
+</monster>

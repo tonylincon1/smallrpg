@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Rolf" script="data/npc/scripts/npcinfo.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="128" head="95" body="95" legs="29" feet="56" addons="1" corpse="6080"/>
+	<parameters>
+	<parameter key="message_greet" value="Ola, posso te ensinar algumas coisas como {mapa}, {vip}, {monstros}, {casas}, {quests}, {task} ?" />
+	</parameters>
+</npc>

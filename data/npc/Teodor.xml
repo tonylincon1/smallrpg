@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Teodor" script="data/npc/scripts/Teodor.lua" walkinterval="2000" lookdir="3">
+    <health now="100" max="100"/>
+    <look type="146" head="49" body="59" legs="0" feet="0" addons="2"/>
+</npc>

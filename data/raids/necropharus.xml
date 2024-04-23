@@ -1,0 +1,5 @@
+<raid>
+<announce delay="0" type="event" message="O ceu esta escurecendo e no cemiterio da cidade parece estar sendo invocado um mago sombiu" />
+<announce delay="200000" type="event" message="Segundo a lenda, esse mago retorna de tempos em tempos as profundezas... " />
+<singlespawn delay="200000" name="necropharus" x="744" y="864" z="7" />
+</raid>

@@ -1,0 +1,68 @@
+229 - Ferumbras para mages
+306 - Kinas
+338 - palas
+
+
+barbaros
+253 - male
+264 - female
+
+pirates
+97 - male
+93 - female
+254
+255
+
+
+
+quest parou em: 1088
+
+
+348 - Barata suprema
+
+
+edições 09/06/16
+anti mc(avaliar)
+mensagem do inico(funciona)
+Falta os books para completar tutorial inicial
+
+npcs (funcionou)
+livro (não funcionou)
+expring (funcionou)
+concerto de trainers(funcionou)
+quest da desert(funcionou)
+residente das cidades(funcionou)
+pergaminho de bless infinita(ah testar) (retirado)
+caves e zoraluk em desert(funcionou)
+novos bichos em desert(funcionou)
+addons para vips(ah testar)
+coelho do avc (funcionou)
+quest da golden boots e horned(funcionou)
+castelo da desert(funcionou)
+cassino (com bug) (modificar)
+Taks(funciona)
+
+tempo de pk (funciona)
+!rainbow (funciona)
+novas magias (funciona)
+7 raid (funcionou)
+magicklong mistery (funcionou)
+Npcs historia (funcionou)
+tps vip (funcionou)
+
+fire of submund (Funcionou)
+caves vip (funcionou)
+itens duplicados (funcionou)
+npcs addoner, vendedor de itens (funcionou)
+look dos npcs (funcionou)
+
+testar helmet que acaba (funciona)
+nova saida da vip e olhar se o npc dos itens vips manda ir para o nort (alterado)
+magias novas (funciona)
+
+testar acessos para quest vip (funcionou)
+boss lord (funcionou)
+fazer quest com calisse na segunda sala do submund (funcionou)
+Quest vip (funcionou)
+Profissoes do global normal (Funcionou)
+task invasion (testar)

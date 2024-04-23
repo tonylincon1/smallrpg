@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Tony" script="data/npc/scripts/Tony.lua" walkinterval="2000">
+	<health now="100" max="100"/>
+	<look type="131" head="58" body="43" legs="38" feet="76" addons="0"/>
+	<parameters>
+		<parameter key="message_greet" value="Para trocar seus itens suba e fale com o npc que fica em cima das escadas das respctivas profissoes.!" />
+		<parameter key="message_farewell" value="Boa sorte..." />
+		<parameter key="message_walkaway" value="Até logo!" />
+	</parameters>
+</npc>

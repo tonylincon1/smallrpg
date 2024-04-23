@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocations>
+	<vocation id="0" name="None" description="none" needpremium="0" gaincap="5" gainhp="5" gainmana="5" gainhpticks="6" gainhpamount="10" gainmanaticks="6" gainmanaamount="1" manamultiplier="4.0" attackspeed="500" soulmax="100" gainsoulticks="120" fromvoc="0" attackable="no">
+		<formula meleeDamage="1.1" distDamage="1.0" wandDamage="1.0" magDamage="1.0" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<skill fist="1.5" club="2.0" sword="2.0" axe="2.0" distance="2.0" shielding="1.5" fishing="1.1" experience="1.0"/>
+	</vocation>
+	<vocation id="1" name="Sorcerer" description="a Sorcerer" needpremium="0" gaincap="10" gainhp="5" gainmana="30" gainhpticks="2" gainhpamount="60" gainmanaticks="1" gainmanaamount="60" manamultiplier="1.1" attackspeed="500" soulmax="100" gainsoulticks="120" fromvoc="1" lessloss="20">
+		<formula meleeDamage="1.0" distDamage="1.0" wandDamage="1.0" magDamage="1.3" magHealingDamage="1.1" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<skill fist="1.5" club="2.0" sword="2.0" axe="2.0" distance="2.0" shielding="1.5" fishing="1.1" experience="1.0"/>
+	</vocation>
+	<vocation id="2" name="Druid" description="a Druid" needpremium="0" gaincap="10" gainhp="5" gainmana="30" gainhpticks="2" gainhpamount="60" gainmanaticks="1" gainmanaamount="60" manamultiplier="1.1" attackspeed="500" soulmax="100" gainsoulticks="120" fromvoc="2" lessloss="20">
+		<formula meleeDamage="1.0" distDamage="1.0" wandDamage="1.0" magDamage="1.3" magHealingDamage="1.1" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<skill fist="1.5" club="1.8" sword="1.8" axe="1.8" distance="1.8" shielding="1.5" fishing="1.1" experience="1.0"/>
+	</vocation>
+	<vocation id="3" name="Paladin" description="an Paladin" needpremium="0" gaincap="20" gainhp="10" gainmana="15" gainhpticks="1" gainhpamount="60" gainmanaticks="2" gainmanaamount="60" manamultiplier="1.4" attackspeed="500" soulmax="100" gainsoulticks="120" fromvoc="3" lessloss="20">
+		<formula meleeDamage="1.0" distDamage="1.5" wandDamage="1.0" magDamage="1.3" magHealingDamage="1.1" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<skill fist="1.2" club="1.2" sword="1.2" axe="1.2" distance="1.1" shielding="1.1" fishing="1.1" experience="1.0"/>
+	</vocation>
+	<vocation id="4" name="Knight" description="a Knight" needpremium="0" gaincap="25" gainhp="15" gainmana="5" gainhpticks="1" gainhpamount="60" gainmanaticks="2" gainmanaamount="60" manamultiplier="3.0" attackspeed="500" soulmax="100" gainsoulticks="120" fromvoc="4" lessloss="20">
+		<formula meleeDamage="1.5" distDamage="1.0" wandDamage="1.0" magDamage="1.3" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.4" shielding="1.1" fishing="1.1" experience="1.0"/>
+	</vocation>
+	<vocation id="5" name="Master Sorcerer" description="a Master Sorcerer" needpremium="1" gaincap="10" gainhp="5" gainmana="30" gainhpticks="2" gainhpamount="40" gainmanaticks="1" gainmanaamount="100" manamultiplier="1.1" attackspeed="300" soulmax="200" gainsoulticks="15" fromvoc="1" lessloss="35">
+		<formula meleeDamage="1.0" distDamage="1.0" wandDamage="1.0" magDamage="1.3" magHealingDamage="1.1" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<skill fist="1.5" club="2.0" sword="2.0" axe="2.0" distance="2.0" shielding="1.5" fishing="1.1" experience="1.1"/>
+	</vocation>
+	<vocation id="6" name="Elder Druid" description="a Elder Druid" needpremium="1" gaincap="10" gainhp="5" gainmana="30" gainhpticks="2" gainhpamount="40" gainmanaticks="1" gainmanaamount="100" manamultiplier="1.1" attackspeed="300" soulmax="200" gainsoulticks="15" fromvoc="2" lessloss="35">
+		<formula meleeDamage="1.0" distDamage="1.0" wandDamage="1.0" magDamage="1.3" magHealingDamage="1.1" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<skill fist="1.5" club="1.8" sword="1.8" axe="1.8" distance="1.8" shielding="1.5" fishing="1.1" experience="1.1"/>
+	</vocation>
+	<vocation id="7" name="Royal Paladin" description="a Royal Paladin" needpremium="1" gaincap="20" gainhp="10" gainmana="15" gainhpticks="2" gainhpamount="70" gainmanaticks="2" gainmanaamount="70" manamultiplier="1.4" attackspeed="300" soulmax="200" gainsoulticks="15" fromvoc="3" lessloss="35">
+		<formula meleeDamage="1.0" distDamage="1.5" wandDamage="1.0" magDamage="1.3" magHealingDamage="1.1" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<skill fist="1.2" club="1.2" sword="1.2" axe="1.2" distance="1.1" shielding="1.1" fishing="1.1" experience="1.1"/>
+	</vocation>
+	<vocation id="8" name="Elite Knight" description="a Elite Knight" needpremium="1" gaincap="25" gainhp="15" gainmana="5" gainhpticks="1" gainhpamount="100" gainmanaticks="2" gainmanaamount="40" manamultiplier="3.0" attackspeed="300" soulmax="200" gainsoulticks="15" fromvoc="4" lessloss="35">
+		<formula meleeDamage="1.5" distDamage="1.0" wandDamage="1.0" magDamage="1.3" magHealingDamage="1.1" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.4" shielding="1.1" fishing="1.1" experience="1.1"/>
+	</vocation>
+	</vocations>

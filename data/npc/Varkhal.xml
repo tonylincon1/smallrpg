@@ -1,0 +1,9 @@
+<npc name="Varkhal" script="data/npc/scripts/loot.lua" floorchange="0" walkinterval="25" access="5" level="1" maglevel="1">
+    <health now="150" max="150"/>
+    <look type="152" head="114" body="114" legs="0" feet="0" addons="3"/>
+    <parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Hello |PLAYERNAME|. I sell addon doll."/>
+		<parameter key="shop_buyable" value="Addon Doll,6512,500000"/>
+	</parameters>
+</npc>

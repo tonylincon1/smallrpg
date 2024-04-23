@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Guarda Mizim" script="data/npc/scripts/Guarda Mizim.lua" walkinterval="2000" lookdir="3">
+    <health now="100" max="100"/>
+    <look type="251" head="122" body="21" legs="35" feet="0" addons="2"/>
+</npc>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Mild" script="data/npc/scripts/Mild.lua" walkinterval="0" lookdir="3">
+    <health now="100" max="100"/>
+    <look type="129" head="20" body="0" legs="31" feet="140" addons="1"/>
+</npc>

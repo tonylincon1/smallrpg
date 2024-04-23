@@ -1,0 +1,6 @@
+<raid>
+<announce delay="0" type="event" message="De todas as lendas do continente, a que mais impressiona e A lenda do dragao Demodras." />
+<announce delay="100000" type="event" message="Dizem que esse dragao sempre existiu! Nao teve um inicio, e provavelmente nao tera um fim..." />
+<announce delay="200000" type="event" message="Segundo a lenda, esse dragao retorna de tempos em tempos as profundezas do covio de dragoes em baixo das slimes de Small vile... " />
+<singlespawn delay="200000" name="demodras" x="817" y="941" z="9" />
+</raid>

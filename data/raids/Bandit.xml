@@ -1,0 +1,15 @@
+<raid>
+<announce delay="0" type="event" message="A estrada para Desert City sempre foi um lugar muito perigoso." />
+<announce delay="150000" type="event" message="Pedimos aos iniciantes que evitem a rota Norte, pois os bandidos fazem constantes saques naquela regiao." />
+<singlespawn delay="150000" name="Bandit" x="812" y="685" z="7" />
+<singlespawn delay="150000" name="Bandit" x="811" y="682" z="7" />
+<singlespawn delay="150000" name="Bandit" x="816" y="686" z="7" />
+<singlespawn delay="150000" name="Bandit" x="825" y="687" z="7" />
+<singlespawn delay="150000" name="Smuggler" x="818" y="687" z="7" />
+<singlespawn delay="150000" name="Smuggler" x="816" y="691" z="7" />
+<singlespawn delay="150000" name="Smuggler" x="824" y="685" z="7" />
+<singlespawn delay="150000" name="Smuggler" x="814" y="684" z="7" />
+<singlespawn delay="150000" name="Smuggler" x="820" y="689" z="7" />
+
+
+</raid>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Elder" script="data/npc/scripts/Elder.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="229" head="95" body="95" legs="29" feet="56" addons="0" corpse="6080"/>
+	<parameters>
+	<parameter key="message_greet" value="Eu sou Elder, o mago supremo, posso te contar sobre a {magia}, {ilhas}, {barbarians}, {bulbi} ?" />
+	</parameters>
+</npc>

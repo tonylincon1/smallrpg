@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Lucy" script="Lucy.lua" walkinterval="2000" floorchange="0">
+          <health now="150" max="150" />
+          <look type="158" head="100" body="19" legs="130" feet="47" corpse="2212" addons="3"/>
+          <parameters>
+                    <parameter key="message_greet" value="Hello |PLAYERNAME|. Do not want to make an exchange? I have {Square Cap} and {Snowball}." />
+                    <parameter key="message_farewell" value="Bye bye!" />
+          </parameters>
+</npc>

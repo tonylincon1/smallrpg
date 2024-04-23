@@ -1,0 +1,9 @@
+<raid>
+<announce delay="0" type="event" message="Firewalker e Ring Seller estao sofrendo um assalto por minotauros em sua loja! Ajude-o a se livrar deles!" />
+<singlespawn delay="1000" name="minotaur" x="1003" y="1015" z="7" />
+<singlespawn delay="2000" name="minotaur" x="1003" y="1014" z="7" />
+<singlespawn delay="3000" name="the Horned Fox" x="1002" y="1012" z="7" />
+<singlespawn delay="4000" name="minotaur guard" x="1000" y="1013" z="7" />
+<singlespawn delay="5000" name="minotaur guard" x="1000" y="1012" z="7" />
+<singlespawn delay="6000" name="minotaur archer" x="1001" y="1013" z="7" />
+</raid>

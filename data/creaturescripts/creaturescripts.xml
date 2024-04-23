@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<creaturescripts>
+	<event type="login" name="PlayerLogin" event="script" value="login.lua"/>
+
+	<event type="joinchannel" name="GuildMotd" event="script" value="guildmotd.lua"/>
+	<event type="receivemail" name="Mail" event="script" value="mail.lua"/>
+	<event type="kill" name="Tasks" script="killtasks.lua"/>
+	<event type="login" name="CheckVip" script="endvip.lua"/>[i]
+	<event type="reportbug" name="SaveReportBug" script="reportbug.lua"/>
+	<event type="look" name="showKD" event="script" value="KillsandDeath.lua"/>
+	<event type="kill" name="DeathBroadCast" event="script" value="deathbroadcast.lua"/>
+	<event type="login" name="DoubleXP" event="script" value="DoubleXP.lua"/>
+	<event type="kill" name="killboss" event="script" value="boss.lua"/>
+	<event type="login" name="BattleLogin" event="script" value="BattleCreatureScript.lua"/>
+	<event type="PrepareDeath" name="BattleDeath" event="script" value="BattleCreatureScript.lua"/>
+	<event type="combat" name="BattleTeam" event="script" value="BattleCreatureScript.lua"/>
+	<event type="login" name="AntiMC" event="script" value="antimc.lua"/>
+	<event type="login" name="firstmessage" script="firstmessage.lua"/>
+	<event type="statschange" name="zombieevent" event="script" value="zombie.lua"/>
+	<event type="login" name="TopEffect" event="script" value="topeffect.lua"/>
+	<event type="advance" name="CheckTop" event="script" value="topeffect.lua"/>
+	<event type="look" name="fraglook" event="script" value="fraglook.lua"/>
+
+	<event type="think" name="Idle" event="script" value="idle.lua"/>
+	<event type="think" name="SkullCheck" event="script" value="skullcheck.lua"/>
+	<event type="death" name="PlayerDeath" event="script" value="playerdeath.lua"/>
+	<event type="login" name="FirstItems" event="script" value="firstitems.lua"/>
+
+	<event type="PrepareDeath" name="pvparena" script="pvparena.lua"/>
+	<event type="attack" name="attackguild" script="attackguild.lua"/>
+	<event type="death" name="incendio" script="incendioMonster.lua"/>
+        </creaturescripts>

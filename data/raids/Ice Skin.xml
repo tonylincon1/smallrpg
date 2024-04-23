@@ -1,0 +1,15 @@
+<raid>
+<announce delay="0" type="event" message="A estrada para Frost Small e muito perigosa, principalmente quando os trolls de gelo aparecem." />
+<announce delay="150000" type="event" message="O npc Foldor avistou uma tropa de trolls de gelo ataquando a cidade, corra para defendela." />
+<singlespawn delay="150000" name="Ice Skin" x="572" y="736" z="7" />
+<singlespawn delay="150000" name="Ice Skin" x="574" y="741" z="7" />
+<singlespawn delay="150000" name="Ice Skin" x="570" y="745" z="7" />
+<singlespawn delay="150000" name="Ice Skin" x="575" y="746" z="7" />
+<singlespawn delay="150000" name="Ice Skin" x="576" y="743" z="7" />
+<singlespawn delay="150000" name="Ice Skin" x="577" y="741" z="7" />
+<singlespawn delay="150000" name="Ice Skin" x="569" y="739" z="7" />
+<singlespawn delay="150000" name="Ice Skin" x="571" y="742" z="7" />
+<singlespawn delay="150000" name="Ice Skin" x="578" y="746" z="7" />
+
+
+</raid>

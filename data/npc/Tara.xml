@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Tara" script="data/npc/scripts/Tara.lua" walkinterval="2000" lookdir="3">
+    <health now="100" max="100"/>
+    <look type="142" head="73" body="87" legs="10" feet="29" addons="0"/>
+</npc>

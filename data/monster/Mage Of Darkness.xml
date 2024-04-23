@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Mage Of Darkness" nameDescription="o Mage Of Darkness" race="blood" experience="171000" speed="800" manacost="0">
+  <health now="60000" max="60000"/>
+  <look type="9" head="20" body="30" legs="40" feet="50" corpse="6080"/>
+  <targetchange interval="5000" chance="8"/>
+  <strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="0"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="4"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+  </flags>
+  <attacks>
+    <attack name="melee" interval="2000" min="-700" max="-3000"/>
+    <attack name="death" interval="1000" chance="10" range="1" min="-3000" max="-4000">
+      <attribute key="areaEffect" value="smallclouds"/>
+    </attack>
+    <attack name="poison" interval="3000" chance="17" range="7" min="-3500" max="-4250">
+      <attribute key="shootEffect" value="earth"/>
+    </attack>
+  </attacks>
+  <defenses armor="20" defense="20">
+    <defense name="healing" interval="1000" chance="25" min="1000" max="2500">
+      <attribute key="areaEffect" value="blueshimmer"/>
+    </defense>
+  </defenses>
+      <elements>
+		<element firePercent="-5"/>
+		<element physicalPercent="-5"/>
+		<element icePercent="10"/>
+		<element energyPercent="20"/>
+		<element holyPercent="-5"/>
+	</elements>
+  <immunities>
+    <immunity earth="1"/>
+    <immunity invisible="1"/>
+  </immunities>
+  <summons maxSummons="4">
+    <summon name="Crown Serpente" interval="1000" chance="17" max="2"/>
+    <summon name="Sarvmor" interval="1000" chance="15" max="1"/>
+    <summon name="Carvmor" interval="1000" chance="13" max="1"/>
+  </summons>
+  <voices interval="5000" chance="10">
+    <voice sentence="Your corpse will be mine!"/>
+    <voice sentence="Taste the sweetness of death!"/>
+  </voices>
+  <loot>
+    <item id="7958" chance="11000" /> -- moonlight rod
+    <item id="2160" countmax="100" chance1="100000" chancemax="0"/>
+    <item id="2160" countmax="100" chance1="100000" chancemax="0"/>
+    <item id="8266" chance="100000"/>
+    <item id="2804" countmax="100" chance1="20000" chancemax="0"/>
+    <item id="2184" chance="13330" /> -- snakebite rod
+    <item id="9933" chance="15000"/>
+    <item id="1987" chance="100000">
+      <inside>
+        <item id="8918" chance="10000"/>
+        <item id="8890" chance="10000"/>
+        <item id="2796" countmax="100" chance="1500"/>
+        <item id="2229" countmax="100" chance1="20000" chancemax="0"/>
+        <item id="8867" chance="20000"/>
+        <item id="5785" chance="10000"/>
+        <item id="8905" chance="10000"/>
+        <item id="2646" chance="10000"/>
+        <item id="2423" chance="5000"/>
+      </inside>
+    </item>
+  </loot>
+</monster>

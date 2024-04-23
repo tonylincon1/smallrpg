@@ -1,0 +1,6 @@
+<raid>
+<announce delay="0" type="event" message="Ha uma lenda em que diz que a mae das aranhas esta voltando." />
+<announce delay="100000" type="event" message="Ha uma grande concentracao de aranhas no templo do norte, o monge esta assustado." />
+<announce delay="200000" type="event" message="Segundo a lenda, esse e o indicio de que a rainha das aranhas vai aparecer..." />
+<singlespawn delay="200000" name="the old widow" x="726" y="744" z="7" />
+</raid>

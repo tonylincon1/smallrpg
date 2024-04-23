@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Nephilim" script="data/npc/scripts/Nephilim.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="234" head="95" body="95" legs="29" feet="56" addons="1" corpse="6080"/>
+	<parameters>
+	<parameter key="message_greet" value="Ola alma perdida, posso te contar mais sobre o {submund}, {salas}, {pumpkin}, {criaturas} ?" />
+	</parameters>
+</npc>

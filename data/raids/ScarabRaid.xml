@@ -1,0 +1,12 @@
+<raid>
+<announce delay="0" type="event" message="O Npc Teodor relata estranhas aparicoes de escaravelhos as portas da Desert City." />
+<announce delay="150000" type="event" message="Ancient scarabs estao liderando um ataque nas muralhas de Desert City." />
+<singlespawn delay="150000" name="Larva" x="864" y="514" z="7" />
+<singlespawn delay="150000" name="Larva" x="854" y="515" z="7" />
+<singlespawn delay="150000" name="Larva" x="861" y="515" z="7" />
+<singlespawn delay="150000" name="Larva" x="859" y="519" z="7" />
+<singlespawn delay="150000" name="Scarab" x="853" y="511" z="7" />
+<singlespawn delay="150000" name="Ancient Scarab" x="857" y="514" z="7" />
+<singlespawn delay="150000" name="Ancient Scarab" x="861" y="517" z="7" />
+<singlespawn delay="150000" name="Ancient Scarab" x="858" y="513" z="7" />
+</raid>

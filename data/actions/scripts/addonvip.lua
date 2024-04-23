@@ -1,0 +1,1 @@
+function onUse(cid, item, fromPosition, itemEx, toPosition) 	if (getPlayerStorageValue(cid, 32010) ~= 1) then 		doPlayerSetStorageValue(cid, 32010, 1) 	else 	 doPlayerSendCancel(cid, "Já pegou seu addon") 	end 	return true end

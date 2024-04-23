@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<npc name="Juli" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0"> 
+    <health now="100" max="100"/> 
+    <look type="147" head="113" body="57" legs="95" feet="113" addons="3"/> 
+    <parameters> 
+        <parameter key="module_shop" value="1"/> 
+        <parameter key="message_greet" value="Oi |PLAYERNAME|, Eu posso vender alguns items de enfeite e war, diga-me {trade} para ver o que eu posso lhe vender."/>
+        <parameter key="shop_buyable" value="doll,2110,100000;doll,10306,30000000;doll,10107,20000000;doll,10026,10000000;doll,9077,50000000;doll,9075,50000000;the star tear,7735,60000000;stuffed rat,7487,80000000;bear,3954,20000000;doll,11392,10000000;doll,11391,80000000;doll,11129,10000000;sea serpent trophy,10529,50000000;the famous golden bug,10530,50000000;doll,9076,50000000;stone skin amulet,2197,50000000;helmet of ultimate terrort,10298,50000000;"/> 
+    </parameters> 
+</npc> 
