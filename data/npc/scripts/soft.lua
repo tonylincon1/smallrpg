@@ -16,11 +16,11 @@ end
 local talkUser = NPCHANDLER_CONVBEHAVIOR == CONVERSATION_DEFAULT and 0 or cid
 
 if(msgcontains(msg, 'soft') or msgcontains(msg, 'boots')) then
-selfSay('Do you want to repair your worn soft boots for 500000 gold coins?', cid)
+selfSay('Do you want to repair your worn soft boots for 5000000 gold coins?', cid)
 talkState[talkUser] = 1
 elseif(msgcontains(msg, 'yes') and talkState[talkUser] == 1) then
 if(getPlayerItemCount(cid, 10021) >= 1) then
-if(doPlayerRemoveMoney(cid, 500000) == TRUE) then
+if(doPlayerRemoveMoney(cid, 5000000) == TRUE) then
 doPlayerRemoveItem(cid, 10021, 1)
 doPlayerAddItem(cid, 2640)
 selfSay('Here you are.', cid)

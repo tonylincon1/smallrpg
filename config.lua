@@ -122,7 +122,7 @@ levelToBuyHouse = 500
 housesPerAccount = 0
 houseRentAsPrice = false
 housePriceAsRent = false
-housePriceEachSquare = 10000
+housePriceEachSquare = 100000
 houseRentPeriod = "never"
 houseCleanOld = 0
 guildHalls = true
@@ -202,7 +202,7 @@ minLevelThresholdForKilledPlayer = 0.9
 maxLevelThresholdForKilledPlayer = 1.1
 
 rateStaminaLoss = 1
-rateStaminaGain = 3
+rateStaminaGain = 1
 rateStaminaThresholdGain = 12
 staminaRatingLimitTop = 41 * 60
 staminaRatingLimitBottom = 14 * 60
