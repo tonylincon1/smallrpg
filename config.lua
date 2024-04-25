@@ -1,9 +1,9 @@
-accountManager = "no"
-namelockManager = "no"
+accountManager = "yes"
+namelockManager = "yes"
 newPlayerChooseVoc = "yes"
-newPlayerSpawnPosX = 1095
-newPlayerSpawnPosY = 948
-newPlayerSpawnPosZ = 7
+newPlayerSpawnPosX = 1017
+newPlayerSpawnPosY = 1022
+newPlayerSpawnPosZ = 6
 newPlayerTownId = 1
 newPlayerLevel = 8
 newPlayerMagicLevel = 0
@@ -67,7 +67,7 @@ squareColor = 0
 allowFightback = true
 
 worldId = 0
-ip = "186.218.5.205"
+ip = "127.0.0.1"
 bindOnlyConfiguredIpAddress = false
 loginPort = 7171
 gamePort = 7172
