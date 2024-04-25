@@ -53,7 +53,6 @@
         <monster name="Lavahole" file="8.4/lavahole.xml"/>
 	<monster name="Yalahari" file="yalahari.xml"/>
 	<monster name="Castle Guardian" file="Castle Guardian.xml"/>
-	<monster name="Killer" file="Killer.xml"/>
 	<monster name="Mage Of Darkness" file="Mage Of Darkness.xml"/>
 	<monster name="Barbarian King" file="Barbarian King.xml"/>
 	<monster name="Aigon Dragon" file="Aigon Dragon.xml"/>
