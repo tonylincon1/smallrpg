@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Warrior Apprentice" nameDescription="Warrior Apprentice" race="blood" experience="25000" speed="390" manacost="0">
+<monster name="Warrior Apprentice" nameDescription="Warrior Apprentice" race="blood" experience="22000" speed="390" manacost="0">
 	<health now="25000" max="25000"/>
  	<look type="139" head="113" body="95" legs="113" feet="116" corpse="3128" addons="2"/>
 	<targetchange interval="2000" chance="5"/>
