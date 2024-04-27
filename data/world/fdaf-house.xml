@@ -1,79 +1,79 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <houses>
-  <house name="Casa 01" houseid="1" entryx="991" entryy="1009" entryz="7" rent="0" townid="1" size="444"/>
-  <house name="Casa 02" houseid="2" entryx="992" entryy="1020" entryz="7" rent="0" townid="1" size="199"/>
-  <house name="Casa 03" houseid="3" entryx="997" entryy="1034" entryz="7" rent="0" townid="1" size="97"/>
-  <house name="Casa 04" houseid="4" entryx="1014" entryy="1037" entryz="7" rent="0" townid="1" size="303"/>
-  <house name="Casa 05" houseid="5" entryx="1041" entryy="1044" entryz="7" rent="0" townid="1" size="297"/>
-  <house name="Casa 06" houseid="6" entryx="1038" entryy="1031" entryz="7" rent="0" townid="1" size="178"/>
-  <house name="Casa 07" houseid="7" entryx="1036" entryy="1020" entryz="7" rent="0" townid="1" size="289"/>
-  <house name="Casa 08" houseid="8" entryx="1055" entryy="1005" entryz="7" rent="0" townid="1" size="127"/>
-  <house name="Casa 09" houseid="9" entryx="1042" entryy="1006" entryz="7" rent="0" townid="1" size="151"/>
-  <house name="Casa 10" houseid="10" entryx="1017" entryy="995" entryz="7" rent="0" townid="1" size="383"/>
-  <house name="Castelo 1" houseid="11" entryx="774" entryy="930" entryz="7" rent="0" guildhall="1" townid="1" size="1132"/>
-  <house name="Desert 1" houseid="12" entryx="807" entryy="499" entryz="7" rent="0" townid="2" size="773"/>
-  <house name="Desert 2" houseid="13" entryx="806" entryy="474" entryz="7" rent="0" townid="2" size="774"/>
-  <house name="Desert 3" houseid="14" entryx="798" entryy="456" entryz="7" rent="0" townid="2" size="92"/>
-  <house name="Desert 4" houseid="15" entryx="800" entryy="449" entryz="7" rent="0" townid="2" size="92"/>
-  <house name="Desert 5" houseid="16" entryx="809" entryy="426" entryz="7" rent="0" townid="2" size="774"/>
-  <house name="Desert 6" houseid="17" entryx="832" entryy="433" entryz="7" rent="0" townid="2" size="391"/>
-  <house name="Desert 7" houseid="18" entryx="851" entryy="450" entryz="7" rent="0" townid="2" size="388"/>
-  <house name="Desert 8" houseid="19" entryx="856" entryy="480" entryz="7" rent="0" townid="2" size="391"/>
-  <house name="Desert 9" houseid="20" entryx="826" entryy="484" entryz="7" rent="0" townid="2" size="386"/>
-  <house name="" houseid="1883" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="116"/>
-  <house name="" houseid="1884" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="114"/>
-  <house name="" houseid="1885" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="115"/>
-  <house name="" houseid="1886" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="82"/>
-  <house name="" houseid="1887" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="237"/>
-  <house name="" houseid="1888" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="130"/>
-  <house name="" houseid="1889" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="135"/>
-  <house name="" houseid="1890" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="129"/>
-  <house name="" houseid="1891" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="147"/>
-  <house name="" houseid="1892" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="145"/>
-  <house name="" houseid="1893" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="121"/>
-  <house name="" houseid="1894" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="175"/>
-  <house name="" houseid="1895" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="123"/>
-  <house name="" houseid="1896" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="87"/>
-  <house name="" houseid="1897" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="114"/>
-  <house name="" houseid="1898" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="178"/>
-  <house name="" houseid="1899" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="450"/>
-  <house name="" houseid="1900" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="301"/>
-  <house name="" houseid="1901" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="314"/>
-  <house name="Ice House 1" houseid="1902" entryx="505" entryy="728" entryz="7" rent="0" townid="3" size="84"/>
-  <house name="Ice House 2" houseid="1903" entryx="507" entryy="721" entryz="7" rent="0" townid="3" size="14"/>
-  <house name="Ice House 3" houseid="1904" entryx="520" entryy="719" entryz="7" rent="0" townid="3" size="8"/>
-  <house name="Ice House 4" houseid="1905" entryx="542" entryy="720" entryz="7" rent="0" townid="3" size="77"/>
-  <house name="Ice House 5" houseid="1906" entryx="552" entryy="732" entryz="7" rent="0" townid="3" size="41"/>
-  <house name="Ice House 6" houseid="1908" entryx="544" entryy="745" entryz="7" rent="0" townid="3" size="93"/>
-  <house name="Mini Ice House 1" houseid="1909" entryx="532" entryy="750" entryz="7" rent="0" townid="3" size="14"/>
-  <house name="Mini Ice House 2" houseid="1910" entryx="535" entryy="759" entryz="7" rent="0" townid="3" size="8"/>
-  <house name="Mini Ice House 3" houseid="1911" entryx="525" entryy="756" entryz="7" rent="0" townid="3" size="14"/>
-  <house name="Mini Ice House 4" houseid="1912" entryx="520" entryy="750" entryz="7" rent="0" townid="3" size="6"/>
-  <house name="Mini Ice House 6" houseid="1914" entryx="514" entryy="756" entryz="7" rent="0" townid="3" size="14"/>
-  <house name="Ice House 7" houseid="1915" entryx="509" entryy="747" entryz="7" rent="0" townid="3" size="223"/>
-  <house name="Castelo de Gelo" houseid="1916" entryx="626" entryy="772" entryz="7" rent="0" guildhall="1" townid="3" size="329"/>
-  <house name="House Vip 1" houseid="1917" entryx="1751" entryy="376" entryz="7" rent="0" townid="4" size="111"/>
-  <house name="House Vip 2" houseid="1918" entryx="1763" entryy="387" entryz="7" rent="0" townid="4" size="211"/>
-  <house name="House Vip 3" houseid="1919" entryx="1789" entryy="384" entryz="7" rent="0" townid="4" size="113"/>
-  <house name="House Vip 4" houseid="1920" entryx="1791" entryy="376" entryz="7" rent="0" townid="4" size="162"/>
-  <house name="House Vip 5" houseid="1921" entryx="1774" entryy="357" entryz="7" rent="0" townid="4" size="113"/>
-  <house name="House Vip 6" houseid="1922" entryx="1757" entryy="359" entryz="7" rent="0" townid="4" size="162"/>
-  <house name="Mini House Vip 1" houseid="1923" entryx="1783" entryy="354" entryz="7" rent="0" townid="4" size="25"/>
-  <house name="Mini House Vip 2" houseid="1924" entryx="1788" entryy="360" entryz="7" rent="0" townid="4" size="25"/>
-  <house name="Mini House Vip 3" houseid="1925" entryx="1793" entryy="353" entryz="7" rent="0" townid="4" size="43"/>
-  <house name="Mini House Vip 4" houseid="1926" entryx="1792" entryy="365" entryz="7" rent="0" townid="4" size="34"/>
-  <house name="Castelo From Desert" houseid="1927" entryx="897" entryy="539" entryz="7" rent="0" guildhall="1" townid="2" size="617"/>
-  <house name="Fire House 1" houseid="1928" entryx="701" entryy="577" entryz="9" rent="0" townid="5" size="117"/>
-  <house name="Fire House 2" houseid="1929" entryx="700" entryy="583" entryz="9" rent="0" townid="5" size="52"/>
-  <house name="Fire House 3" houseid="1930" entryx="696" entryy="595" entryz="9" rent="0" townid="5" size="50"/>
-  <house name="Fire House 4" houseid="1931" entryx="712" entryy="595" entryz="9" rent="0" townid="5" size="117"/>
-  <house name="Fire House 5" houseid="1932" entryx="732" entryy="586" entryz="9" rent="0" townid="5" size="74"/>
-  <house name="Mini Fire House 1" houseid="1933" entryx="719" entryy="593" entryz="9" rent="0" townid="5" size="7"/>
-  <house name="Mini Fire House 2" houseid="1934" entryx="729" entryy="594" entryz="9" rent="0" townid="5" size="7"/>
-  <house name="Mini Fire House 3" houseid="1935" entryx="719" entryy="597" entryz="9" rent="0" townid="5" size="7"/>
-  <house name="Mini Fire House 4" houseid="1936" entryx="729" entryy="597" entryz="9" rent="0" townid="5" size="7"/>
-  <house name="Mini Fire House 5" houseid="1937" entryx="729" entryy="595" entryz="9" rent="0" townid="5" size="7"/>
-  <house name="Mini Fire House 6" houseid="1938" entryx="729" entryy="599" entryz="9" rent="0" townid="5" size="7"/>
-  <house name="Mini Fire House 7" houseid="1939" entryx="739" entryy="595" entryz="9" rent="0" townid="5" size="7"/>
-  <house name="Mini Fire House 8" houseid="1940" entryx="739" entryy="599" entryz="9" rent="0" townid="5" size="7"/>
+	<house name="Casa 01" houseid="1" entryx="991" entryy="1009" entryz="7" rent="0" townid="1" size="444" />
+	<house name="Casa 02" houseid="2" entryx="992" entryy="1020" entryz="7" rent="0" townid="1" size="199" />
+	<house name="Casa 03" houseid="3" entryx="997" entryy="1034" entryz="7" rent="0" townid="1" size="97" />
+	<house name="Casa 04" houseid="4" entryx="1014" entryy="1037" entryz="7" rent="0" townid="1" size="303" />
+	<house name="Casa 05" houseid="5" entryx="1041" entryy="1044" entryz="7" rent="0" townid="1" size="297" />
+	<house name="Casa 06" houseid="6" entryx="1038" entryy="1031" entryz="7" rent="0" townid="1" size="178" />
+	<house name="Casa 07" houseid="7" entryx="1036" entryy="1020" entryz="7" rent="0" townid="1" size="289" />
+	<house name="Casa 08" houseid="8" entryx="1055" entryy="1005" entryz="7" rent="0" townid="1" size="127" />
+	<house name="Casa 09" houseid="9" entryx="1042" entryy="1006" entryz="7" rent="0" townid="1" size="151" />
+	<house name="Casa 10" houseid="10" entryx="1017" entryy="995" entryz="7" rent="0" townid="1" size="383" />
+	<house name="Castelo 1" houseid="11" entryx="774" entryy="930" entryz="7" rent="0" guildhall="true" townid="1" size="1132" />
+	<house name="Desert 1" houseid="12" entryx="807" entryy="499" entryz="7" rent="0" townid="2" size="773" />
+	<house name="Desert 2" houseid="13" entryx="806" entryy="474" entryz="7" rent="0" townid="2" size="774" />
+	<house name="Desert 3" houseid="14" entryx="798" entryy="456" entryz="7" rent="0" townid="2" size="92" />
+	<house name="Desert 4" houseid="15" entryx="800" entryy="449" entryz="7" rent="0" townid="2" size="92" />
+	<house name="Desert 5" houseid="16" entryx="809" entryy="426" entryz="7" rent="0" townid="2" size="774" />
+	<house name="Desert 6" houseid="17" entryx="832" entryy="433" entryz="7" rent="0" townid="2" size="391" />
+	<house name="Desert 7" houseid="18" entryx="851" entryy="450" entryz="7" rent="0" townid="2" size="388" />
+	<house name="Desert 8" houseid="19" entryx="856" entryy="480" entryz="7" rent="0" townid="2" size="391" />
+	<house name="Desert 9" houseid="20" entryx="826" entryy="484" entryz="7" rent="0" townid="2" size="386" />
+	<house name="" houseid="1883" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="116" />
+	<house name="" houseid="1884" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="114" />
+	<house name="" houseid="1885" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="115" />
+	<house name="" houseid="1886" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="82" />
+	<house name="" houseid="1887" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="237" />
+	<house name="" houseid="1888" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="130" />
+	<house name="" houseid="1889" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="135" />
+	<house name="" houseid="1890" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="129" />
+	<house name="" houseid="1891" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="147" />
+	<house name="" houseid="1892" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="145" />
+	<house name="" houseid="1893" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="121" />
+	<house name="" houseid="1894" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="175" />
+	<house name="" houseid="1895" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="123" />
+	<house name="" houseid="1896" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="87" />
+	<house name="" houseid="1897" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="114" />
+	<house name="" houseid="1898" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="178" />
+	<house name="" houseid="1899" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="450" />
+	<house name="" houseid="1900" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="301" />
+	<house name="" houseid="1901" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="314" />
+	<house name="Ice House 1" houseid="1902" entryx="505" entryy="728" entryz="7" rent="0" townid="3" size="84" />
+	<house name="Ice House 2" houseid="1903" entryx="507" entryy="721" entryz="7" rent="0" townid="3" size="14" />
+	<house name="Ice House 3" houseid="1904" entryx="520" entryy="719" entryz="7" rent="0" townid="3" size="8" />
+	<house name="Ice House 4" houseid="1905" entryx="542" entryy="720" entryz="7" rent="0" townid="3" size="77" />
+	<house name="Ice House 5" houseid="1906" entryx="552" entryy="732" entryz="7" rent="0" townid="3" size="41" />
+	<house name="Ice House 6" houseid="1908" entryx="544" entryy="745" entryz="7" rent="0" townid="3" size="93" />
+	<house name="Mini Ice House 1" houseid="1909" entryx="532" entryy="750" entryz="7" rent="0" townid="3" size="14" />
+	<house name="Mini Ice House 2" houseid="1910" entryx="535" entryy="759" entryz="7" rent="0" townid="3" size="8" />
+	<house name="Mini Ice House 3" houseid="1911" entryx="525" entryy="756" entryz="7" rent="0" townid="3" size="14" />
+	<house name="Mini Ice House 4" houseid="1912" entryx="520" entryy="750" entryz="7" rent="0" townid="3" size="6" />
+	<house name="Mini Ice House 6" houseid="1914" entryx="514" entryy="756" entryz="7" rent="0" townid="3" size="14" />
+	<house name="Ice House 7" houseid="1915" entryx="509" entryy="747" entryz="7" rent="0" townid="3" size="223" />
+	<house name="Castelo de Gelo" houseid="1916" entryx="626" entryy="772" entryz="7" rent="0" guildhall="true" townid="3" size="329" />
+	<house name="House Vip 1" houseid="1917" entryx="1751" entryy="376" entryz="7" rent="0" townid="4" size="111" />
+	<house name="House Vip 2" houseid="1918" entryx="1763" entryy="387" entryz="7" rent="0" townid="4" size="211" />
+	<house name="House Vip 3" houseid="1919" entryx="1789" entryy="384" entryz="7" rent="0" townid="4" size="113" />
+	<house name="House Vip 4" houseid="1920" entryx="1791" entryy="376" entryz="7" rent="0" townid="4" size="162" />
+	<house name="House Vip 5" houseid="1921" entryx="1774" entryy="357" entryz="7" rent="0" townid="4" size="113" />
+	<house name="House Vip 6" houseid="1922" entryx="1757" entryy="359" entryz="7" rent="0" townid="4" size="162" />
+	<house name="Mini House Vip 1" houseid="1923" entryx="1783" entryy="354" entryz="7" rent="0" townid="4" size="25" />
+	<house name="Mini House Vip 2" houseid="1924" entryx="1788" entryy="360" entryz="7" rent="0" townid="4" size="25" />
+	<house name="Mini House Vip 3" houseid="1925" entryx="1793" entryy="353" entryz="7" rent="0" townid="4" size="43" />
+	<house name="Mini House Vip 4" houseid="1926" entryx="1792" entryy="365" entryz="7" rent="0" townid="4" size="34" />
+	<house name="Castelo From Desert" houseid="1927" entryx="897" entryy="539" entryz="7" rent="0" guildhall="true" townid="2" size="617" />
+	<house name="Fire House 1" houseid="1928" entryx="701" entryy="577" entryz="9" rent="0" townid="5" size="117" />
+	<house name="Fire House 2" houseid="1929" entryx="700" entryy="583" entryz="9" rent="0" townid="5" size="52" />
+	<house name="Fire House 3" houseid="1930" entryx="696" entryy="595" entryz="9" rent="0" townid="5" size="50" />
+	<house name="Fire House 4" houseid="1931" entryx="712" entryy="595" entryz="9" rent="0" townid="5" size="117" />
+	<house name="Fire House 5" houseid="1932" entryx="732" entryy="586" entryz="9" rent="0" townid="5" size="74" />
+	<house name="Mini Fire House 1" houseid="1933" entryx="719" entryy="593" entryz="9" rent="0" townid="5" size="7" />
+	<house name="Mini Fire House 2" houseid="1934" entryx="729" entryy="594" entryz="9" rent="0" townid="5" size="7" />
+	<house name="Mini Fire House 3" houseid="1935" entryx="719" entryy="597" entryz="9" rent="0" townid="5" size="7" />
+	<house name="Mini Fire House 4" houseid="1936" entryx="729" entryy="597" entryz="9" rent="0" townid="5" size="7" />
+	<house name="Mini Fire House 5" houseid="1937" entryx="729" entryy="595" entryz="9" rent="0" townid="5" size="7" />
+	<house name="Mini Fire House 6" houseid="1938" entryx="729" entryy="599" entryz="9" rent="0" townid="5" size="7" />
+	<house name="Mini Fire House 7" houseid="1939" entryx="739" entryy="595" entryz="9" rent="0" townid="5" size="7" />
+	<house name="Mini Fire House 8" houseid="1940" entryx="739" entryy="599" entryz="9" rent="0" townid="5" size="7" />
 </houses>

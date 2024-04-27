@@ -85,6 +85,12 @@
 	<!-- ZombieEvent -->
 	<monster name="event zombie" file="ZombieEvent/event zombie.xml"/>
 
+	<!-- ZombieEvent -->
+	<monster name="Tiger Castle" file="Castle/Tiger Castle.xml"/>
+	<monster name="Hellhound Castle" file="Castle/Hellhound Castle.xml"/>
+	<monster name="Yeti Castle" file="Castle/Yeti Castle.xml"/>
+	<monster name="Yalahari Castle" file="Castle/Yalahari Castle.xml"/>
+
 	<!--Novos-->
 	<monster name="Blousm" file="Novos/Blousm.xml"/>
 	<monster name="Crawling" file="Novos/Crawling.xml"/>
@@ -92,7 +98,6 @@
 	<monster name="Terramita" file="Novos/Terramita.xml"/>
 	<monster name="Desert Insects" file="Novos/Desert Insects.xml"/>
 	<monster name="Coelho do AVC" file="Novos/Coelho do AVC.xml"/>
-	<monster name="Tiger Castle" file="Novos/Tiger Castle.xml"/>
 	<monster name="Barbarian Axer" file="Novos/Barbarian Axer.xml"/>
 	<monster name="Barbarian Double Axer" file="Novos/Barbarian Double Axer.xml"/>
 	<monster name="Fish Dark" file="Novos/Fish Dark.xml"/>

@@ -8787,6 +8787,11 @@
 		<attribute key="manaTicks" value="2000" />
 		<attribute key="weight" value="100" />
 	</item>
+	<item id="9653" article="a" name="Mysterious Amulet">
+		<attribute key="slotType" value="necklace" />
+		<attribute key="weight" value="100" />
+		<attribute key="absorbPercentAll" value="5" />
+	</item>
 	<item id="5786" article="a" name="wooden whistle">
 		<attribute key="weight" value="100" />
 	</item>
