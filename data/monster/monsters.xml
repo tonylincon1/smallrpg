@@ -68,7 +68,6 @@
 	<monster name="Nightmare Archer" file="Nightmare Archer.xml"/>
 	<monster name="Brotherhood Archer" file="Brotherhood Archer.xml"/>
 	<monster name="Spider Img" file="Spider Img.xml"/>
-	<monster name="Poltway" file="Poltway.xml"/>
 	<monster name="Sarvmor" file="Sarvmor.xml"/>
 	<monster name="Carvmor" file="Carvmor.xml"/>
 	<monster name="Diseased Dan" file="Diseased Dan.xml"/>
@@ -81,6 +80,12 @@
 	<monster name="Butterfly" file="insects/pink butterfly.xml"/>
 	<monster name="Undead gladiator" file="8.4/undead gladiator.xml"/>
 	<monster name="The Incendier" file="custom/The Incendier.xml"/>
+
+	<!-- Dawnport -->
+	<monster name="Poltway" file="Dawnport/Poltway.xml"/>
+	<monster name="Warrior Poltway" file="Dawnport/Warrior Poltway.xml"/>
+	<monster name="Fire Poltway" file="Dawnport/Fire Poltway.xml"/>
+	<monster name="King Poltway" file="Dawnport/King Poltway.xml"/>
 
 	<!-- ZombieEvent -->
 	<monster name="event zombie" file="ZombieEvent/event zombie.xml"/>

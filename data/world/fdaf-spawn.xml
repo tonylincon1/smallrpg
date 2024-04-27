@@ -7322,6 +7322,208 @@
 	<spawn centerx="906" centery="1825" centerz="8" radius="1">
 		<monster name="Boss Of Nobleman" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="913" centery="1829" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="914" centery="1833" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Warrior Poltway" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="917" centery="1833" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="922" centery="1837" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Warrior Poltway" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1006" centery="1838" centerz="8" radius="1">
+		<monster name="King Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="921" centery="1842" centerz="8" radius="1">
+		<monster name="Fire Poltway" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Warrior Poltway" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="999" centery="1842" centerz="8" radius="1">
+		<monster name="Fire Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="928" centery="1844" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Warrior Poltway" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="996" centery="1844" centerz="8" radius="1">
+		<monster name="Fire Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="934" centery="1848" centerz="8" radius="1">
+		<monster name="Fire Poltway" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Warrior Poltway" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="993" centery="1848" centerz="8" radius="1">
+		<monster name="Fire Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="938" centery="1855" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Warrior Poltway" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="966" centery="1855" centerz="8" radius="1">
+		<monster name="Fire Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="994" centery="1855" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="998" centery="1856" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="947" centery="1858" centerz="8" radius="1">
+		<monster name="Fire Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="941" centery="1859" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="958" centery="1859" centerz="8" radius="1">
+		<monster name="Fire Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="972" centery="1860" centerz="8" radius="1">
+		<monster name="Fire Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="999" centery="1861" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fire Poltway" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Warrior Poltway" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="937" centery="1862" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fire Poltway" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="931" centery="1864" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Warrior Poltway" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="975" centery="1865" centerz="8" radius="1">
+		<monster name="Fire Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1001" centery="1866" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="996" centery="1868" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="932" centery="1869" centerz="8" radius="1">
+		<monster name="Warrior Poltway" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="992" centery="1869" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Warrior Poltway" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="981" centery="1870" centerz="8" radius="1">
+		<monster name="Fire Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="989" centery="1870" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="927" centery="1872" centerz="8" radius="1">
+		<monster name="Fire Poltway" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="992" centery="1873" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="923" centery="1874" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Warrior Poltway" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="949" centery="1876" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="990" centery="1876" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Warrior Poltway" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Fire Poltway" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="919" centery="1878" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fire Poltway" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="955" centery="1878" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Warrior Poltway" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="947" centery="1880" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fire Poltway" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Warrior Poltway" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="988" centery="1880" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="916" centery="1881" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="959" centery="1882" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="944" centery="1884" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="989" centery="1884" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Warrior Poltway" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="920" centery="1885" centerz="8" radius="1">
+		<monster name="Warrior Poltway" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="958" centery="1885" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fire Poltway" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Warrior Poltway" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="926" centery="1887" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="939" centery="1887" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Warrior Poltway" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="990" centery="1888" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="929" centery="1890" centerz="8" radius="1">
+		<monster name="Warrior Poltway" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="937" centery="1890" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fire Poltway" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="961" centery="1890" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="988" centery="1890" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="983" centery="1891" centerz="8" radius="1">
+		<monster name="Fire Poltway" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Warrior Poltway" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="978" centery="1892" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="965" centery="1893" centerz="8" radius="1">
+		<monster name="Warrior Poltway" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="970" centery="1895" centerz="8" radius="1">
+		<monster name="Fire Poltway" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Warrior Poltway" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="974" centery="1895" centerz="8" radius="1">
+		<monster name="Poltway" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1638" centery="160" centerz="9" radius="5">
 		<monster name="Grim Reaper" x="1" y="-4" z="9" spawntime="60" />
 		<monster name="Grim Reaper" x="1" y="-2" z="9" spawntime="60" />
