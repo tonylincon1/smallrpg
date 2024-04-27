@@ -6832,3 +6832,25 @@ Communication.cpp 1830: Object is not where it should be, reason:
 Fri Jul 01 19:01:36 2016
 Debug Assertion 8.60 Communication.cpp 1830
 
+----- 27/04/2024 14:34:21 - Tony Lincon (127.0.0.1) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -9300H @ 
+Video Card: Intel (R) UHD G
+Last Packet Types: 109 109 109 160 160 140 160 160 140 109
+Last Packet: 109 138 003 033 007 008 001 138 003 032 007 008 000 000 000 000
+Player Position: [913,1828,8]
+Player Name: Tony Lincon (Small RPG)
+Player Action: 049 050 055 046 048 046 048 046 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2848138 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (write attempt at 4EA5B49D)
+Sat Apr 27 14:34:03 2024
+Debug Assertion 8.60 NWin32Exception.cpp 50
+

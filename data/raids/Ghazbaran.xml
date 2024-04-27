@@ -1,0 +1,7 @@
+<raid>
+<announce delay="0" type="event" message="Os servos do Rei Barbaro estao trabalhando em seu retorno ao mundo terreno. FUJAM, mortais."/>
+<announce delay="150000" type="event" message="Barbarian King esta prestes a fazer o seu caminho para o reino mortal. Corram por suas vidas!"/>
+<announce delay="300000" type="event" message="O ceu escurece. Uma nuvem negra vinda da floresta a norte de Small Vile e um pressagio de que o pior esta para acontecer."/>
+<announce delay="450000" type="event" message="Barbarian King foi convocado do inferno para o flagelo das terras dos mortais novamente."/>
+<singlespawn delay="450000" name="Barbarian King" x="1027" y="1029" z="7" />
+</raid>

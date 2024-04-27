@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<npc name="Hunter Seller" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="155" head="79" body="0" legs="114" feet="13" addons="3"/>
+<parameters>
+	<parameter key="module_shop" value="1"/>
+	<parameter key="shop_sellable" value="blue orb,7632,100000"/>
+	<parameter key="shop_buyable" value="minotaur leather,5878,200000;chicken feather,5890,1000000;honey comb,5902,1500000;elane's crossbow,5947,10000000;lizard leather,5876,750000;red dragon leather,5948,2500000;enchanted chicken wing,5891,15000000;piece of royal steel,5887,100000000;piece of hell steel,5888,100000000;piece of draconian steel,5889,200000000;sniper gloves,5875,5000000;winning lottery ticket,5958,5000000;magic sulphur,5904,10000000;ankh,2327,1000000;soul stone,5809,500000000;bat wing,5894,100000;red piece of cloth,5911,500000;ape fur,5883,600000;holy orchid,5922,800000;spools of spider silk yarn,5886,5000000;lizard scale,5881,2500000;red dragon scale,5882,650000;vampire dust,5905,500000;chunk of crude iron,5892,1000000;iron ore,5880,1000000;perfect behemoth fang,5893,30000000;damaged steel helmet,5924,1000000;warrior's sweat,5885,1000000;hardened bone,5925,3000000;turtle shell,5899,500000;fighting spirit,5884,10000000;dragon claw,5919,100000000;green piece of cloth,5910,300000;bear paw,5896,400000;wolf paw,5897,200000;demon dust,5906,1000000;blessed wooden stake,5942,50000000;ceiron's wolf tooth chain,5940,50000000;mermaid comb,5945,1000000000;fish fin,5895,1500000;blue piece of cloth,5912,5000000;hook,6097,1000000;peg leg,6126,100000;eye patch,6098,100000;brutus bloodbeard's hat,6099,1000000;lethal lissy's shirt,6100,1000000;ron the ripper's sabre,6101,1000000;deadeye devious' eye patch,6102,1000000;brown piece of cloth,5913,30000;yellow piece of cloth,5914,100000;white piece of cloth,5909,1500000;simon the beggar's favorite staff,6107,5000000;banana staff,3966,1700000;tribal mask,3967,500000;shard,7290,20000000;demonic essence,6500,1500000"/>
+</parameters>
+</npc>

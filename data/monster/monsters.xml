@@ -22,6 +22,16 @@
 	<monster name="Phantasm Vip" file="Vip/phantasm vip.xml"/>
 	<monster name="Frost Dragon Hatchling vip" file="Vip/frost dragon hatchling vip.xml"/>
 	<monster name="Son of Verminor Vip" file="Vip/son of verminor vip.xml"/>
+
+	<!--Bosses Diarios-->
+		<!--Small Ville-->
+			<monster name="King Dragon Lord" file="Bosses Diarios/King Dragon Lord.xml"/> <!--816 963 10-->
+			<monster name="Death" file="Bosses Diarios/Death.xml"/> <!--717 894 9-->
+		<!--Front Ville-->
+			<monster name="Barbarian King" file="Bosses Diarios/Barbarian King.xml"/> <!--415 699 7-->
+			<monster name="Alfa Polar Bear" file="Bosses Diarios/Alfa Polar Bear.xml"/> <!--687 684 7-->
+		<!--Desert Ville-->
+			<monster name="Mummy Bandit" file="Bosses Diarios/Mummy Bandit.xml"/> <!--849 719 8-->
 	
 	<!--8.4-->
         <monster name="Acid Blob" file="8.4/acid blob.xml"/>
@@ -54,7 +64,6 @@
 	<monster name="Yalahari" file="yalahari.xml"/>
 	<monster name="Castle Guardian" file="Castle Guardian.xml"/>
 	<monster name="Mage Of Darkness" file="Mage Of Darkness.xml"/>
-	<monster name="Barbarian King" file="Barbarian King.xml"/>
 	<monster name="Aigon Dragon" file="Aigon Dragon.xml"/>
 	<monster name="Boss Of Nobleman" file="Boss Of Nobleman.xml"/>
 	<monster name="Boss Of Serpente Crown" file="Boss Of Serpente Crown.xml"/>
@@ -110,7 +119,7 @@
 	<monster name="Fish Blue" file="Novos/Fish Blue.xml"/>
 	<monster name="Mamoth da Montanha" file="Novos/Mamoth da Montanha.xml"/>
 	<monster name="Lord Of Dead" file="Novos/Lord Of Dead.xml"/>
-	<monster name="Lady Of Dead" file="Novos/Lady Of Dead.xml"/>
+	<monster name="Nomad Desert" file="Novos/Nomad Desert.xml"/>
 
 	<!--Submund-->
 	<monster name="Lord Of Lost Soul" file="Submund/Lord Of Lost Soul.xml"/>

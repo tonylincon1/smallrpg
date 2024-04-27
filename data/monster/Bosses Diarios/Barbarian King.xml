@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Barbarian King" nameDescription="o Barbarian King" race="blood" experience="121000" speed="400" manacost="590">
+  <health now="80000" max="80000"/>
+  <look type="255" head="94" body="121" legs="4" feet="25" corpse="6080"/>
+  <targetchange interval="2000" chance="5"/>
+  <strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="1"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag staticattack="80"/>
+    <flag lightlevel="0"/>
+    <flag lightcolor="0"/>
+    <flag targetdistance="1"/>
+    <flag runonhealth="0"/>
+  </flags>
+  <attacks>
+    <attack name="melee" interval="2000" min="-4000" max="-8000"/>
+  </attacks>
+  <defenses armor="15" defense="15">
+    <defense name="speed" interval="1000" chance="12" speedchange="260" duration="40000">
+      <attribute key="areaEffect" value="redshimmer"/>
+    </defense>
+  </defenses>
+  <elements>
+  <element physicalPercent="5"/>
+  <element icePercent="50"/>
+  <element holyPerent="10"/>
+  <element energyPercent="20"/>
+  <element earthPercent="-10"/>
+  <element deathPercent="-5"/>
+  </elements>
+  <immunities>
+    <immunity drunk="1"/>
+    <immunity invisible="1"/>
+  </immunities>
+  <voices interval="2000" chance="20">
+    <voice sentence="YAAAHEEE!"/>
+    <voice sentence="SLAUGHTER!"/>
+    <voice sentence="CARNAGE!"/>
+  </voices>
+  <loot>
+    <item id="2160" countmax="100" chance1="100000" chancemax="0"/> --Gold Coins
+    <item id="2671" countmax="20" chance1="33000" chancemax="0"/> --Ham
+    <item id="8930" chance="11111"/> --emerald sword
+    <item id="6132" chance="11111"/> --soft boots 
+    <item id="1987" chance="100000"> --Bag
+        <inside>
+           <item id="2495" chance="1688"/> --Beastslayer Axe
+           <item id="2522" chance="11111"/> --great shield
+           <item id="12591" chance="4444"/> --cobra crown
+           <item id="6391" chance="11111"/> --nightmare shield
+           <item id="5911" countmax="100" chance1="4555" chancemax="0"/> --Red Piece of Cloth
+           <item id="3962" chance="1688"/> --Beastslayer Axe
+        </inside>
+     </item>
+  </loot>
+</monster>
