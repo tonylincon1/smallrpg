@@ -8760,11 +8760,11 @@
 	<item fromid="5779" toid="5784" article="an" name="arrow" />
 	<item id="5785" article="a" name="Small Medal">
 		<attribute key="healthGain" value="30" />
-		<attribute key="slotType" value="ring" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="manaGain" value="45" />
 		<attribute key="manaTicks" value="2000" />
 		<attribute key="weight" value="100" />
+		<attribute key="slotType" value="ring" />
 	</item>
 	<item id="10136" article="a" name="Medalhão Protetor">
 		<attribute key="slotType" value="ring" />
@@ -8778,19 +8778,22 @@
 		<attribute key="manaTicks" value="2000" />
 		<attribute key="absorbPercentAll" value="8" />
 		<attribute key="weight" value="100" />
+		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="12626" article="a" name="Supreme Small Ring">
 		<attribute key="healthGain" value="50" />
-		<attribute key="slotType" value="ring" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="manaGain" value="75" />
 		<attribute key="manaTicks" value="2000" />
 		<attribute key="weight" value="100" />
+		<attribute key="slotType" value="ring" />
+		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="9653" article="a" name="Mysterious Amulet">
 		<attribute key="slotType" value="necklace" />
 		<attribute key="weight" value="100" />
 		<attribute key="absorbPercentAll" value="5" />
+		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="5786" article="a" name="wooden whistle">
 		<attribute key="weight" value="100" />
@@ -17501,7 +17504,7 @@
 	<item id="12606" article="a" name="Small Helmet">
 		<attribute key="weight" value="2000" />
 		<attribute key="armor" value="16" />
-          	<attribute key="absorbPercentFire" value="20" />
+		<attribute key="absorbPercentFire" value="20" />
 		<attribute key="speed" value="70" />
 		<attribute key="slotType" value="head" />
 	</item>
@@ -17511,35 +17514,37 @@
 		<attribute key="skillSword" value="5" />
 		<attribute key="skillAxe" value="5" />
 		<attribute key="skillClub" value="5" />
-          	<attribute key="absorbPercentAll" value="6" />
+		<attribute key="absorbPercentAll" value="6" />
 		<attribute key="speed" value="70" />
 		<attribute key="slotType" value="head" />
 	</item>
-	<item id="12607" name="Small Boots">
+	<item id="12607" article="a" name="Small Boots">
 		<attribute key="weight" value="1000" />
-		<attribute key="slotType" value="feet" />
  		<attribute key="healthGain" value="30" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="manaGain" value="50" />
 		<attribute key="manaTicks" value="1000" />
-                <attribute key="absorbPercentDeath" value="20" />
+		<attribute key="absorbPercentDeath" value="20" />
 		<attribute key="speed" value="70" />
-	</item>
-	<item id="12624" name="Supreme Small Boots">
-		<attribute key="weight" value="1000" />
 		<attribute key="slotType" value="feet" />
+		<attribute key="showattributes" value="1" />
+	</item>
+	<item id="12624" article="a" name="Supreme Small Boots">
+		<attribute key="weight" value="1000" />
  		<attribute key="healthGain" value="100" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="manaGain" value="100" />
 		<attribute key="manaTicks" value="1000" />
-                <attribute key="absorbPercentAll" value="6" />
+		<attribute key="absorbPercentAll" value="6" />
 		<attribute key="speed" value="70" />
+		<attribute key="slotType" value="feet" />
+		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="12609" article="a" name="Small Staff">
-                <attribute key="weight" value="2000" />
-		<attribute key="weaponType" value="wand" />
-		<attribute key="shootType" value="holy" />
+		<attribute key="weight" value="2000" />
 		<attribute key="range" value="4" />
+		<attribute key="shootType" value="holy" />
+		<attribute key="weaponType" value="wand" />
 	</item>
 	<item id="12610" article="a" name="Small Sword">
 		<attribute key="weight" value="2000" />

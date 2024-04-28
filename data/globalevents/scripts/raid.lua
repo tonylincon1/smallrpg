@@ -284,7 +284,7 @@ local raids = {
         hasBoss = true,
         fromPoss = {x=746, y=497, z=10},
         toPoss = {x=746, y=497, z=10},
-        dates = {"Sunday-11:51"},
+        dates = {"Sunday-20:00"},
         maxMonsters = 1,
         timeBoss = 200,  -- tempo em segundos após o início para o boss aparecer
         messages = {

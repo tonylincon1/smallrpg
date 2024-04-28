@@ -102,7 +102,7 @@
 	<!-- ZombieEvent -->
 	<monster name="event zombie" file="ZombieEvent/event zombie.xml"/>
 
-	<!-- ZombieEvent -->
+	<!-- Castle -->
 	<monster name="Tiger Castle" file="Castle/Tiger Castle.xml"/>
 	<monster name="Hellhound Castle" file="Castle/Hellhound Castle.xml"/>
 	<monster name="Yeti Castle" file="Castle/Yeti Castle.xml"/>
