@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <monster name="Nomad Desert" nameDescription="Nomad Desert" race="blood" experience="18000" speed="315" manacost="420">
    <health now="22000" max="22000"/>
-   <look type="146" head="114" body="20" legs="22" feet="2" corpse="6080"/>
+   <look type="146" head="114" body="20" legs="22" feet="2" addons="3" corpse="6080"/>
    <targetchange interval="5000" chance="8"/>
    <strategy attack="100" defense="0"/>
 	<flags>
-		<flag summonable="1"/>
+		<flag summonable="0"/>
 	  <flag attackable="1"/>
 	  <flag hostile="1"/>
 	  <flag illusionable="1"/>

@@ -1,14 +1,14 @@
 <raids>
 <!-- Raids: -->
 
-<raid name="Bandit" file="Bandit.xml" interval2="2880" margin="0" enabled="yes"/>
-<raid name="Ice Skin" file="Ice Skin.xml" interval2="4320" margin="0" enabled="yes"/>
-<raid name="Cyclops" file="Cyclops.xml" interval2="7200" margin="0" enabled="yes"/>
-<raid name="The Old Widow" file="The Old Widow.xml" interval2="10080" margin="0" enabled="yes"/>
-<raid name="Carvmor" file="Massacre.xml" interval2="14400" margin="0" enabled="yes"/>
-<raid name="Demodras" file="Demodras.xml" interval2="14400" margin="0" enabled="yes"/>
-<raid name="necropharus" file="necropharus.xml" interval2="21600" margin="0" enabled="yes"/>
-<raid name="Barbarian King" file="Orshabaal.xml" interval2="24480" margin="0" enabled="yes"/>
-<raid name="Minotaur" file="RatRaid.xml" interval2="7200" margin="0" enabled="yes"/>
-<raid name="Scarab" file="ScarabRaid.xml" interval2="7200" margin="0" enabled="yes"/>
+<raid name="Bandit" file="Bandit.xml" interval2="2880" margin="0" enabled="no"/>
+<raid name="Ice Skin" file="Ice Skin.xml" interval2="4320" margin="0" enabled="no"/>
+<raid name="Cyclops" file="Cyclops.xml" interval2="7200" margin="0" enabled="no"/>
+<raid name="The Old Widow" file="The Old Widow.xml" interval2="10080" margin="0" enabled="no"/>
+<raid name="Carvmor" file="Massacre.xml" interval2="14400" margin="0" enabled="no"/>
+<raid name="Demodras" file="Demodras.xml" interval2="14400" margin="0" enabled="no"/>
+<raid name="necropharus" file="necropharus.xml" interval2="21600" margin="0" enabled="no"/>
+<raid name="Barbarian King" file="Orshabaal.xml" interval2="24480" margin="0" enabled="no"/>
+<raid name="Minotaur" file="RatRaid.xml" interval2="7200" margin="0" enabled="no"/>
+<raid name="Scarab" file="ScarabRaid.xml" interval2="7200" margin="0" enabled="no"/>
 </raids>

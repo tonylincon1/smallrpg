@@ -21,7 +21,7 @@
 	<globalevent name="Vip" interval="2" script="Vip.lua" />
 	<globalevent name="Vip2" interval="2" script="Vip2.lua" />
 	<globalevent name="Tasks" interval="2" script="Tasks.lua" />
-	<globalevent name="raids" time="15:31" event="script" value="raid.lua"/>
+	<globalevent name="raid" interval="2" event="script" value="raid.lua"/>
 	<globalevent name="A escada" interval="2" script="A escada.lua" />
 	<globalevent name="clean" interval="2500" event="script" value="clean.lua"/>
     <globalevent name="texto" interval="2" script="texto.lua" />
