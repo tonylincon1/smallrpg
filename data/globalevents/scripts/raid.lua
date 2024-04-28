@@ -74,7 +74,7 @@ local raids = {
         },
         messageSent = {false, false, false},
         lastExecuted = nil  -- Registra a última vez que a raid foi executada
-    }
+    },
 
 	-- Raids boses
 	{
@@ -169,6 +169,132 @@ local raids = {
     },
 
 	-- Boses diarios
+    {
+        name = "Confronto com King Dragon Lord em Small Ville",
+        monsters = {"King Dragon Lord"},
+        boss = "King Dragon Lord",
+        hasBoss = true,
+        fromPoss = {x=816, y=963, z=10},
+        toPoss = {x=816, y=963, z=10},
+        dates = {"Monday-18:45"},
+        maxMonsters = 1,
+        timeBoss = 200,  -- tempo em segundos após o início para o boss aparecer
+        messages = {
+            "BOSS DIARIO: O poderoso King Dragon Lord foi avistado em Small Ville. Prepare-se para uma batalha épica!",
+            "Os céus de Small Ville ardem em chamas com a ira do King Dragon Lord.",
+            "É sua chance de enfrentar um dos dragões mais temidos de todos os tempos!"
+        },
+        messageSent = {false, false, false},
+        lastExecuted = nil  -- Registra a última vez que a raid foi executada
+    },
+    {
+        name = "A Sombra da Morte em Small Ville",
+        monsters = {"Death"},
+        boss = "Death",
+        hasBoss = true,
+        fromPoss = {x=717, y=894, z=9},
+        toPoss = {x=717, y=894, z=9},
+        dates = {"Tuesday-20:30"},
+        maxMonsters = 1,
+        timeBoss = 200,  -- tempo em segundos após o início para o boss aparecer
+        messages = {
+            "BOSS DIARIO: A morte caminha pelas ruas de Small Ville. Death despertou!",
+            "O ar fica mais frio ao redor de Death, o espectro da destruição.",
+            "Enfrente Death se tiver coragem, mas esteja preparado para as consequências."
+        },
+        messageSent = {false, false, false},
+        lastExecuted = nil  -- Registra a última vez que a raid foi executada
+    },
+    {
+        name = "Desafio do Barbarian King em Front Ville",
+        monsters = {"Barbarian King"},
+        boss = "Barbarian King",
+        hasBoss = true,
+        fromPoss = {x=415, y=699, z=7},
+        toPoss = {x=415, y=699, z=7},
+        dates = {"Wednesday-19:00"},
+        maxMonsters = 1,
+        timeBoss = 200,  -- tempo em segundos após o início para o boss aparecer
+        messages = {
+            "BOSS DIARIO: O Barbarian King está desafiando os guerreiros em Front Ville!",
+            "Com sua força bruta, o Barbarian King domina os campos de batalha.",
+            "Prove seu valor enfrentando o poderoso Barbarian King hoje."
+        },
+        messageSent = {false, false, false},
+        lastExecuted = nil  -- Registra a última vez que a raid foi executada
+    },
+    {
+        name = "Fúria do Alfa Polar Bear em Front Ville",
+        monsters = {"Alfa Polar Bear"},
+        boss = "Alfa Polar Bear",
+        hasBoss = true,
+        fromPoss = {x=687, y=684, z=7},
+        toPoss = {x=687, y=684, z=7},
+        dates = {"Thursday-19:55"},
+        maxMonsters = 1,
+        timeBoss = 200,  -- tempo em segundos após o início para o boss aparecer
+        messages = {
+            "BOSS DIARIO: O Alfa Polar Bear ruge furiosamente em Front Ville!",
+            "Enfrente o frio e o terror do Alfa Polar Bear, o monarca das neves.",
+            "Mostre sua coragem contra o Alfa Polar Bear, o guardião do gelo."
+        },
+        messageSent = {false, false, false},
+        lastExecuted = nil  -- Registra a última vez que a raid foi executada
+    },
+    {
+        name = "Assalto do Mummy Bandit em Desert Ville",
+        monsters = {"Mummy Bandit"},
+        boss = "Mummy Bandit",
+        hasBoss = true,
+        fromPoss = {x=849, y=719, z=8},
+        toPoss = {x=849, y=719, z=8},
+        dates = {"Friday-21:20"},
+        maxMonsters = 1,
+        timeBoss = 200,  -- tempo em segundos após o início para o boss aparecer
+        messages = {
+            "BOSS DIARIO: Mummy Bandit assalta as riquezas de Desert Ville!",
+            "As areias tremem sob os passos do Mummy Bandit, ladrão das profundezas.",
+            "Desafie o Mummy Bandit e recupere os tesouros perdidos de Desert Ville."
+        },
+        messageSent = {false, false, false},
+        lastExecuted = nil  -- Registra a última vez que a raid foi executada
+    },
+    {
+        name = "O Despertar de Zathroth em Desert Ville",
+        monsters = {"Zathroth"},
+        boss = "Zathroth",
+        hasBoss = true,
+        fromPoss = {x=834, y=579, z=8},
+        toPoss = {x=834, y=579, z=8},
+        dates = {"Saturday-14:35"},
+        maxMonsters = 1,
+        timeBoss = 200,  -- tempo em segundos após o início para o boss aparecer
+        messages = {
+            "BOSS DIARIO: Zathroth, o arauto das sombras, emerge em Desert Ville.",
+            "Os segredos obscuros de Zathroth ameaçam engolir a luz do dia.",
+            "Prepare-se para um confronto místico contra Zathroth este sábado."
+        },
+        messageSent = {false, false, false},
+        lastExecuted = nil  -- Registra a última vez que a raid foi executada
+    },
+    {
+        name = "A Ira de King Hell Troll em Fire Ville",
+        monsters = {"King Hell Troll"},
+        boss = "King Hell Troll",
+        hasBoss = true,
+        fromPoss = {x=746, y=497, z=10},
+        toPoss = {x=746, y=497, z=10},
+        dates = {"Sunday-11:51"},
+        maxMonsters = 1,
+        timeBoss = 200,  -- tempo em segundos após o início para o boss aparecer
+        messages = {
+            "BOSS DIARIO: King Hell Troll traz o fogo do inferno para Fire Ville!",
+            "A terra queima onde o King Hell Troll pisa. Enfrente-o se puder!",
+            "O desafio supremo espera por você com a chegada do King Hell Troll."
+        },
+        messageSent = {false, false, false},
+        lastExecuted = nil  -- Registra a última vez que a raid foi executada
+    },
 }
 
 local function getRandomCoordinate(fromPos, toPos)

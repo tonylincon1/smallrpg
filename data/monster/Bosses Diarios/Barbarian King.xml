@@ -44,19 +44,6 @@
     <voice sentence="CARNAGE!"/>
   </voices>
   <loot>
-    <item id="2160" countmax="100" chance1="100000" chancemax="0"/> --Gold Coins
-    <item id="2671" countmax="20" chance1="33000" chancemax="0"/> --Ham
-    <item id="8930" chance="11111"/> --emerald sword
-    <item id="6132" chance="11111"/> --soft boots 
-    <item id="1987" chance="100000"> --Bag
-        <inside>
-           <item id="2495" chance="1688"/> --Beastslayer Axe
-           <item id="2522" chance="11111"/> --great shield
-           <item id="12591" chance="4444"/> --cobra crown
-           <item id="6391" chance="11111"/> --nightmare shield
-           <item id="5911" countmax="100" chance1="4555" chancemax="0"/> --Red Piece of Cloth
-           <item id="3962" chance="1688"/> --Beastslayer Axe
-        </inside>
-     </item>
+    <item id="2157" countmax="1" chance1="100000" chancemax="0"/> --event coin
   </loot>
 </monster>

@@ -32,6 +32,9 @@
 			<monster name="Alfa Polar Bear" file="Bosses Diarios/Alfa Polar Bear.xml"/> <!--687 684 7-->
 		<!--Desert Ville-->
 			<monster name="Mummy Bandit" file="Bosses Diarios/Mummy Bandit.xml"/> <!--849 719 8-->
+			<monster name="Zathroth" file="Bosses Diarios/Zathroth.xml"/> <!--834 579 8-->
+		<!--Fire Ville-->
+			<monster name="King Hell Troll" file="Bosses Diarios/King Hell Troll.xml"/> <!--746 497 10-->
 	
 	<!--8.4-->
         <monster name="Acid Blob" file="8.4/acid blob.xml"/>
@@ -308,7 +311,6 @@
 	<monster name="Sea Serpent" file="dragons/Sea Serpent.xml"/>
 	<monster name="Dragon Lord" file="dragons/dragon lord.xml"/>
 	<monster name="Dragon" file="dragons/dragon.xml"/>
-        <monster name="Ice Skin" file="dragons/ice.xml"/>
         <monster name="Unbalanced Man" file="dragons/unbalanced man.xml"/>
 	<monster name="Hydra" file="dragons/hydra.xml"/>
 	<monster name="Dragon Hatchling" file="dragons/dragon hatchling.xml" />
@@ -380,6 +382,7 @@
 	<!-- Giants -->
 	<monster name="Frost Giant" file="giants/frost giant.xml"/>
 	<monster name="Frost Giantess" file="giants/frost giantess.xml"/>	
+	<monster name="Ice Giant" file="giants/Ice Giant.xml"/>	
 	<monster name="Cyclops Smith" file="giants/Cyclops Smith.xml"/>
 	<monster name="Cyclops Drone" file="giants/Cyclops Drone.xml"/>
 	<monster name="Behemoth" file="giants/behemoth.xml"/>
@@ -599,6 +602,8 @@
 	<monster name="Swamp Troll" file="trolls/swamp troll.xml"/>
 	<monster name="Troll" file="trolls/troll.xml"/>
 	<monster name="Big Boss Trolliver" file="trolls/big boss trolliver.xml"/>
+	<monster name="Ice Skin" file="trolls/ice.xml"/>
+	<monster name="Fire Troll" file="trolls/Fire Troll.xml"/>
 	
 	<!-- Undead humanoids -->
 	<monster name="Banshee" file="undead humanoids/banshee.xml"/>
@@ -639,7 +644,6 @@
 	<monster name="Toxiros" file="Custom monsters by eldin/toxiros.xml"/>
 	<monster name="Pyramo" file="Custom monsters by eldin/pyramo.xml"/>
 	<monster name="Lazarus" file="Custom monsters by eldin/lazarus.xml"/>
-	<monster name="Zathroth" file="Custom monsters by eldin/zathroth.xml"/>
 	<monster name="Goshnar" file="Custom monsters by eldin/goshnar.xml"/>
 	<monster name="Durin" file="Custom monsters by eldin/durin.xml"/>
 	<monster name="Demora" file="Custom monsters by eldin/demora.xml"/>

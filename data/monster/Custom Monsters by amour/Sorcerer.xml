@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Sorcerer" nameDescription="a sorcerer" race="blood" experience="2500" speed="390" manacost="0">
-	<health now="1500" max="1500"/>
+<monster name="Sorcerer" nameDescription="a sorcerer" race="blood" experience="8000" speed="390" manacost="0">
+	<health now="10000" max="10000"/>
 	<look type="130" head="21" body="113" legs="57" feet="116" corpse="3128" addons="1"/>
 	<targetchange interval="2000" chance="5"/>
 	<strategy attack="80" defense="10"/>
@@ -21,7 +21,7 @@
 		<attack name="death" interval="2000" chance="100" range="7" min="-250" max="-320">
 			<attribute key="shootEffect" value="suddendeath"/>
 		</attack>
-		<attack name="fire" interval="5000" chance="80" range="7" radius="2" target="1" min="-100" max="-200">
+		<attack name="fire" interval="5000" chance="80" range="7" radius="2" target="1" min="-299" max="-350">
 			<attribute key="shootEffect" value="fire"/>
 			<attribute key="areaEffect" value="firearea"/>
 		</attack>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Druid" nameDescription="a druid" race="blood" experience="2500" speed="390" manacost="0">
-	<health now="1500" max="1500"/>
+<monster name="Druid" nameDescription="a druid" race="blood" experience="8000" speed="390" manacost="0">
+	<health now="10000" max="10000"/>
  	<look type="128" head="78" body="120" legs="68" feet="97" corpse="3128" addons="1"/>
 	<targetchange interval="2000" chance="5"/>
 	<strategy attack="80" defense="10"/>
@@ -18,11 +18,11 @@
 	</flags>
 	<attacks>
 		<attack name="melee" interval="2000" skill="40" attack="40"/>
-		<attack name="fire" interval="2000" chance="80" range="7" radius="4" target="1" min="-150" max="-200">
+		<attack name="fire" interval="2000" chance="80" range="7" radius="4" target="1" min="-299" max="-350">
 			<attribute key="shootEffect" value="fire"/>
 			<attribute key="areaEffect" value="firearea"/>
 		</attack>
-		<attack name="fire" interval="4000" chance="20" range="7" radius="2" target="1" min="-100" max="-200">
+		<attack name="fire" interval="4000" chance="20" range="7" radius="2" target="1" min="-299" max="-350">
 			<attribute key="shootEffect" value="fire"/>
 			<attribute key="areaEffect" value="firearea"/>
 		</attack>

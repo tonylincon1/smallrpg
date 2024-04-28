@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Paladin" nameDescription="a paladin" race="blood" experience="2500" speed="360" manacost="0">
-	<health now="2000" max="2000"/>
+<monster name="Paladin" nameDescription="a paladin" race="blood" experience="8000" speed="360" manacost="0">
+	<health now="10000" max="10000"/>
  	<look type="129" head="95" body="121" legs="40" feet="97" corpse="3128" addons="1"/>
 	<targetchange interval="2000" chance="5"/>
 	<strategy attack="80" defense="10"/>
@@ -17,10 +17,10 @@
 		<flag runonhealth="0"/>
 	</flags>
 	<attacks>
-		<attack name="physical" interval="2000" chance="90" range="7" min="-100" max="-300">
+		<attack name="physical" interval="2000" chance="90" range="7" min="-299" max="-350">
 			<attribute key="shootEffect" value="redstar"/>
 		</attack>
-		<attack name="holy" interval="4000" chance="100" range="7" min="-40" max="-60">
+		<attack name="holy" interval="4000" chance="100" range="7" min="-299" max="-350">
 			<attribute key="shootEffect" value="holy"/>
 		</attack>
 	</attacks>
