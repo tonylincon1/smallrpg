@@ -187,19 +187,19 @@
 		<vocation id="3"/>
 		<vocation id="7"/>
 	</instant>
-	<instant name="Ultimate Flame Strike" words="exori max flam" lvl="1050" mana="5000" prem="1" range="3" casterTargetOrDirection="1" blockwalls="1" exhaustion="3000" groups="4,2000" icon="154" needlearn="0" event="script" value="attack/ultimate flame strike.lua">
+	<instant name="Ultimate Flame Strike" words="exori max flam" lvl="1050" mana="3000" prem="1" range="3" casterTargetOrDirection="1" blockwalls="1" exhaustion="3000" groups="4,2000" icon="154" needlearn="0" event="script" value="attack/ultimate flame strike.lua">
 		<vocation id="1"/>
 		<vocation id="5"/>
 	</instant>
-	<instant name="Ultimate Energy Strike" words="exori max vis" lvl="1050" mana="5000" prem="1" range="3" casterTargetOrDirection="1" blockwalls="1" exhaustion="3000" groups="4,2000" icon="155" needlearn="0" event="script" value="attack/ultimate energy strike.lua">
+	<instant name="Ultimate Energy Strike" words="exori max vis" lvl="1050" mana="3000" prem="1" range="3" casterTargetOrDirection="1" blockwalls="1" exhaustion="3000" groups="4,2000" icon="155" needlearn="0" event="script" value="attack/ultimate energy strike.lua">
 		<vocation id="1"/>
 		<vocation id="5"/>
 	</instant>
-	<instant name="Ultimate Ice Strike" words="exori max frigo" lvl="1050" mana="5000" prem="1" range="3" casterTargetOrDirection="1" blockwalls="1" exhaustion="3000" groups="4,2000" icon="156" needlearn="0" event="script" value="attack/ultimate ice strike.lua">
+	<instant name="Ultimate Ice Strike" words="exori max frigo" lvl="1050" mana="3000" prem="1" range="3" casterTargetOrDirection="1" blockwalls="1" exhaustion="3000" groups="4,2000" icon="156" needlearn="0" event="script" value="attack/ultimate ice strike.lua">
 		<vocation id="2"/>
 		<vocation id="6"/>
 	</instant>
-	<instant name="Ultimate Terra Strike" words="exori max tera" lvl="1050" mana="5000" prem="1" range="3" casterTargetOrDirection="1" blockwalls="1" exhaustion="3000" groups="4,2000" icon="157" needlearn="0" event="script" value="attack/ultimate terra strike.lua">
+	<instant name="Ultimate Terra Strike" words="exori max tera" lvl="1050" mana="3000" prem="1" range="3" casterTargetOrDirection="1" blockwalls="1" exhaustion="3000" groups="4,2000" icon="157" needlearn="0" event="script" value="attack/ultimate terra strike.lua">
 		<vocation id="2"/>
 		<vocation id="6"/>
 	</instant>
