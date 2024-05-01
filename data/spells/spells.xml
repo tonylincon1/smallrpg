@@ -497,7 +497,7 @@
 		<vocation id="7"/>
 	</conjure>
 	<conjure name="Conjure Assassin" words="exevo con san" lvl="80" mana="500" soul="0" conjureId="7368" conjureCount="15" exhaustion="1000" needlearn="0" function="conjureItem">
-		<vocation name="Small Paladin"/>
+		<vocation id="7"/>
 	</conjure>	<conjure name="Conjure Blank" words="adori blank" lvl="20" mana="200" soul="0" conjureId="2260" conjureCount="1" exhaustion="2000" needlearn="0" function="conjureItem">
 		<vocation id="1"/>
 		<vocation id="2"/>

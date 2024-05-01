@@ -20,7 +20,7 @@ local POTIONS = {
         [8473] = {empty = 7635, splash = 2, health = {1200, 1800}, level = 130, vocations = {4, 8}, vocStr = "knights"}, -- ultimate health potion
         [5942] = {empty = 7633, splash = 2, mana = {1100, 1700}, level = 130, vocations = {2, 6}, vocStr = "sorcerers and druids"}, -- ultimate mana 
         [7620] = {empty = 7636, splash = 7, mana = {90, 170}}, -- mana potion 
-        [7589] = {empty = 7634, splash = 7, mana = {140, 210}, level = 50, vocations = {1, 2, 3, 4, 5, 6, 7, 8}, vocStr = "sorcerers, druids and paladins"}, -- strong mana potion 
+        [7589] = {empty = 7634, splash = 7, mana = {140, 210}, level = 50, vocations = {1, 2, 3, 4, 5, 6, 7, 8}, vocStr = "sorcerers, druids, paladins and knights"}, -- strong mana potion 
         [7590] = {empty = 7635, splash = 7, mana = {500, 800}, level = 80, vocations = {1, 2, 5, 6}, vocStr = "sorcerers and druids"}, -- great mana potion 
         [8472] = {empty = 7635, splash = 3, health = {800, 1100}, mana = {400, 600}, level = 80, vocations = {3, 7}, vocStr = "paladins"} -- great spirit potion 
 } 
