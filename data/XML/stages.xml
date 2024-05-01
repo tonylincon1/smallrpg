@@ -12,5 +12,7 @@
 		<stage minlevel="1001" maxlevel="1100" multiplier="45"/>
 		<stage minlevel="1101" maxlevel="1200" multiplier="35"/>
 		<stage minlevel="1201" multiplier="20"/>
+		<stage minlevel="1501" multiplier="10"/>
+		<stage minlevel="2001" multiplier="5"/>
 	</world>
 </stages>
