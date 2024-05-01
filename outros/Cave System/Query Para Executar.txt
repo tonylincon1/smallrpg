@@ -1,0 +1,30 @@
+* Query para Sqlite:
+
+CREATE TABLE exclusive_cave (
+    id               INTEGER         NOT NULL,
+    account_id      INTEGER         NOT NULL, 
+    player_id      INTEGER         NOT NULL, 
+    player_name     INTEGER         NOT NULL,
+    cave_id   	INT             NOT NULL
+                              DEFAULT 0,
+    friend_id   	INT             NOT NULL
+                              DEFAULT 0,
+    time      	    INTEGER         NOT NULL,
+    PRIMARY KEY ( id ) 
+);
+
+
+* Query para MySql:
+
+CREATE TABLE exclusive_cave (
+    id        INT NOT NULL AUTO_INCREMENT,
+    account_id      INTEGER         NOT NULL, 
+    player_id      INTEGER         NOT NULL, 
+    player_name     INTEGER         NOT NULL,
+    cave_id   	INT             NOT NULL
+                              DEFAULT 0,
+    friend_id   	INT             NOT NULL
+                              DEFAULT 0,
+    time      	    INTEGER         NOT NULL,
+    PRIMARY KEY ( id ) 
+);

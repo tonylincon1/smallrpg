@@ -1,0 +1,4 @@
+versão 1 : É para vendar as caves em money(Gold's)
+
+
+Versão 2: É para vender as caves por items, por exemplo por moedas especiais como scarab coins(ID 2159)

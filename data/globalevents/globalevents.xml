@@ -15,13 +15,13 @@
 	<globalevent name="cidadao" interval="2" script="cidadao.lua" />
 	<globalevent name="cidadao2" interval="2" script="cidadao2.lua" />
 	<globalevent name="cidadao3" interval="2" script="cidadao3.lua" />
+	<globalevent name="cidadao4" interval="2" script="cidadao4.lua" />
 	<globalevent name="shop" interval="2" script="shop.lua"/>
 	<globalevent name="GlobalBattle" interval="60" event="script" value="BattleGlobalEvents.lua"/>
 	<globalevent name="GlobalStart" type="start" event="script" value="BattleGlobalStart.lua"/>
 	<globalevent name="Vip" interval="2" script="Vip.lua" />
 	<globalevent name="Vip2" interval="2" script="Vip2.lua" />
 	<globalevent name="Tasks" interval="2" script="Tasks.lua" />
-	<!-- <globalevent name="raid" interval="2" event="script" value="raid.lua"/> -->
 	<globalevent name="A escada" interval="2" script="A escada.lua" />
 	<globalevent name="clean" interval="2500" event="script" value="clean.lua"/>
     <globalevent name="texto" interval="2" script="texto.lua" />
@@ -29,6 +29,9 @@
 	<globalevent name="facebook" interval="2500" event="script" value="facebook.lua"/>
 	<globalevent name="serverstart" type="start" event="script" value="start.lua"/>
 	<globalevent name="playersrecord" type="record" event="script" value="record.lua"/>
+
+	<globalevent name="raid" interval="60" event="script" value="raid.lua"/>
+	<globalevent name="ExclusiveCave" interval="60" script="exclusive_cave.lua" />
     
 
 	<!-- <globalevent name="timer_example" time="21:35" event="script" value="my_script.lua"/> -->

@@ -1,0 +1,6 @@
+<globalevent name="ExclusiveCave" interval="60" script="exclusive_cave.lua" />
+
+
+
+
+obs: Se eu servidor for em milsegundos troque o "60" por "60000"

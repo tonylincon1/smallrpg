@@ -1,0 +1,3 @@
+    <talkaction words="/mycave;/addcavefriend;/removecavefriend" script="cave_owner.lua"/>
+    <talkaction words="/cavetime;/cavefriendtime;/caveleave" script="cave_friend.lua"/>
+    <talkaction words="/cavelist;/cave;/cavepurchase" script="cave_list.lua"/>

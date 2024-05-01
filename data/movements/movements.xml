@@ -12,6 +12,7 @@
 	<movevent type="StepIn" actionid="2008" event="script" value="zombie.lua"/>
         <movevent type="StepIn" uniqueid="14217" event="script" value="frost.lua"/>
 	<movevent type="StepIn" uniqueid="14220" event="script" value="fire.lua"/>
+	<movevent type="StepIn" uniqueid="14222" event="script" value="forest.lua"/>
 	<movevent type="StepIn" itemid="7943-7954" event="script" value="swimming.lua"/>
 
 	<!-- Underwater drown -->
@@ -860,6 +861,7 @@
 	<movevent type="StepIn" actionid="25004" event="script" value="tp2.lua"/>
         <movevent type="StepIn" uniqueid="14218" event="script" value="frostt.lua"/>
 	<movevent type="StepIn" uniqueid="14221" event="script" value="firee.lua"/>
+	<movevent type="StepIn" uniqueid="14223" event="script" value="forestt.lua"/>
 	<movevent type="StepIn" uniqueid="26501" event="script" value="submund2.lua"/>
 	<movevent type="StepIn" uniqueid="26502" event="script" value="submund3.lua"/>
 	<movevent type="StepIn" uniqueid="26503" event="script" value="submund4.lua"/>

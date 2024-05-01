@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Guardian Of Pumpkin" nameDescription="Guardian Of Pumpkin" experience="1450" speed="620" race="blood" manacost="0">
-	<health now="100000" max="100000"/>
+	<health now="1400000" max="1400000"/>
 	<strategy attack="100" defense="0"/>
 	<targetchange speed="0" chance="8"/>
 	<look type="308" corpse="6080"/>

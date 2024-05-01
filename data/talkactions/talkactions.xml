@@ -117,6 +117,11 @@
     <talkaction words="!rempoll" event="script" value="PollSystem.lua"/>
     <talkaction words="!votepoll" event="script" value="PollSystem.lua"/>
 
+	<!-- caves exclusivas -->
+	<talkaction words="/mycave;/addcavefriend;/removecavefriend" script="cave_owner.lua"/>
+    <talkaction words="/cavetime;/cavefriendtime;/caveleave" script="cave_friend.lua"/>
+    <talkaction words="/cavelist;/cave;/cavepurchase" script="cave_list.lua"/>
+
 <talkaction words="love" script="love.lua"/>
 
 <talkaction words="!attackguild" event="script" value="attackguild.lua"/>

@@ -25,6 +25,7 @@
 	<event type="think" name="SkullCheck" event="script" value="skullcheck.lua"/>
 	<event type="death" name="PlayerDeath" event="script" value="playerdeath.lua"/>
 	<event type="login" name="FirstItems" event="script" value="firstitems.lua"/>
+	<event type="login" name="ExclusiveCave" event="script" value="exclusive_cave.lua"/>
 
 	<event type="PrepareDeath" name="pvparena" script="pvparena.lua"/>
 	<event type="attack" name="attackguild" script="attackguild.lua"/>

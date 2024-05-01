@@ -35,6 +35,13 @@
 			<monster name="Zathroth" file="Bosses Diarios/Zathroth.xml"/> <!--834 579 8-->
 		<!--Fire Ville-->
 			<monster name="King Hell Troll" file="Bosses Diarios/King Hell Troll.xml"/> <!--746 497 10-->
+
+	<!--Caves exclusivas-->
+    <monster name="Forest Orc" file="Caves exclusivas/Forest Orc.xml"/>
+    <monster name="Forest Orc Shaman" file="Caves exclusivas/Forest Orc Shaman.xml"/>
+    <monster name="Forest Orc Rider" file="Caves exclusivas/Forest Orc Rider.xml"/>
+    <monster name="Forest Orc Leader" file="Caves exclusivas/Forest Orc Leader.xml"/>
+    <monster name="Forest Orc Berserker" file="Caves exclusivas/Forest Orc Berserker.xml"/>
 	
 	<!--8.4-->
         <monster name="Acid Blob" file="8.4/acid blob.xml"/>
@@ -68,6 +75,7 @@
 	<monster name="Castle Guardian" file="Castle Guardian.xml"/>
 	<monster name="Mage Of Darkness" file="Mage Of Darkness.xml"/>
 	<monster name="Aigon Dragon" file="Aigon Dragon.xml"/>
+	<monster name="Demon Lord" file="Demon Lord.xml"/>
 	<monster name="Boss Of Nobleman" file="Boss Of Nobleman.xml"/>
 	<monster name="Boss Of Serpente Crown" file="Boss Of Serpente Crown.xml"/>
 	<monster name="Electrol" file="Electrol.xml"/>

@@ -76,4 +76,14 @@
 	<house name="Mini Fire House 6" houseid="1938" entryx="729" entryy="599" entryz="9" rent="0" townid="5" size="7" />
 	<house name="Mini Fire House 7" houseid="1939" entryx="739" entryy="595" entryz="9" rent="0" townid="5" size="7" />
 	<house name="Mini Fire House 8" houseid="1940" entryx="739" entryy="599" entryz="9" rent="0" townid="5" size="7" />
+	<house name="Forest House 1" houseid="1941" entryx="747" entryy="1044" entryz="7" rent="0" townid="6" size="17" />
+	<house name="Forest House 2" houseid="1942" entryx="741" entryy="1042" entryz="7" rent="0" townid="6" size="16" />
+	<house name="Forest House 3" houseid="1943" entryx="749" entryy="1038" entryz="7" rent="0" townid="6" size="14" />
+	<house name="Forest House 4" houseid="1944" entryx="747" entryy="1032" entryz="7" rent="0" townid="6" size="18" />
+	<house name="Forest House 5" houseid="1945" entryx="726" entryy="1045" entryz="7" rent="0" townid="6" size="33" />
+	<house name="Forest House 6" houseid="1946" entryx="700" entryy="1050" entryz="7" rent="0" townid="6" size="25" />
+	<house name="Forest Guild House" houseid="1947" entryx="626" entryy="1145" entryz="7" rent="0" townid="6" size="256" />
+	<house name="Forest House 7" houseid="1948" entryx="756" entryy="1091" entryz="7" rent="0" townid="6" size="214" />
+	<house name="Forest House 8" houseid="1949" entryx="630" entryy="1088" entryz="7" rent="0" townid="6" size="17" />
+	<house name="Forest House 9" houseid="1950" entryx="618" entryy="1089" entryz="7" rent="0" townid="6" size="23" />
 </houses>

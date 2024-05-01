@@ -10959,6 +10959,16 @@
 		<attribute key="shootType" value="infernalbolt" />
 		<attribute key="ammoAction" value="removecount" />
 	</item>
+	<item id="12627" article="an" name="Small Bolt" plural="Small Bolts">
+		<attribute key="weight" value="90" />
+		<attribute key="slotType" value="ammo" />
+		<attribute key="attack" value="100" />
+		<attribute key="maxHitChance" value="100" />
+		<attribute key="weaponType" value="ammunition" />
+		<attribute key="ammoType" value="bolt" />
+		<attribute key="shootType" value="infernalbolt" />
+		<attribute key="ammoAction" value="removecount" />
+	</item>
 	<item id="6530" article="a" name="pair of old worn soft boots">
 		<attribute key="description" value="Someone specialised in shoes might be able to repair them for you." />
 		<attribute key="weight" value="800" />
@@ -12305,6 +12315,10 @@
 	<item id="7439" article="a" name="berserk potion">
 		<attribute key="weight" value="200" />
 		<attribute key="description" value="Drinking this potion increases temporarily your fighting skill while decreasing your defense." />
+	</item>
+	<item id="12637" article="a" name="Triple Exp Potion">
+		<attribute key="weight" value="200" />
+		<attribute key="description" value="Depois de tomar sua EXP dobrara durante 1 hora." />
 	</item>
 	<item id="7440" article="a" name="mastermind potion">
 		<attribute key="weight" value="200" />
@@ -14822,6 +14836,15 @@
 		<attribute key="range" value="6" />
 		<attribute key="hitChance" value="3" />
 		<attribute key="attack" value="5" />
+	</item>
+	<item id="12628" article="a" name="Small Crossbow">
+		<attribute key="weight" value="12000" />
+		<attribute key="slotType" value="two-handed" />
+		<attribute key="weaponType" value="distance" />
+		<attribute key="ammoType" value="bolt" />
+		<attribute key="range" value="12" />
+		<attribute key="hitChance" value="100" />
+		<attribute key="attack" value="20" />
 	</item>
 	<item id="8852" article="the" name="devileye">
 		<attribute key="weight" value="5500" />

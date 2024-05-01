@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="The Small Pumpkin" tp="1" nameDescription="The Small Pumpkin" race="fire" experience="3000000" speed="610" manacost="0">
-<health now="100000" max="100000"/>
+<health now="1400000" max="1400000"/>
 <look type="292" corpse="8960"/>
 <targetchange interval="60000" chance="0"/>
 <strategy attack="100" defense="0"/>
@@ -29,7 +29,7 @@
 <attribute key="shootEffect" value="smallice"/>
 </attack>
 <attack name="manadrain" interval="3000" chance="13" range="7" min="-4000" max="-7000"/>
-<attack name="outfit" interval="1000" chance="17" range="7" length="8" spread="0" monster="demon" duration="20000">
+<attack name="outfit" interval="1000" chance="17" range="7" length="8" spread="0" monster="Demon Lord" duration="20000">
 <attribute key="areaEffect" value="smallplants"/>
 </attack>
 </attacks>

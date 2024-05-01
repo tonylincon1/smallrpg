@@ -1,0 +1,1 @@
+<event type="login" name="ExclusiveCave" event="script" value="exclusive_cave.lua"/>
