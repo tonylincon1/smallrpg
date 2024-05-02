@@ -1211,6 +1211,12 @@
 	<spawn centerx="541" centery="1140" centerz="6" radius="1">
 		<monster name="Aigon Dragon" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="567" centery="1162" centerz="6" radius="1">
+		<monster name="Aigon Dragon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="555" centery="1174" centerz="6" radius="1">
+		<monster name="Aigon Dragon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="619" centery="1188" centerz="6" radius="1">
 		<monster name="Aigon Dragon" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -4629,8 +4635,8 @@
 		<monster name="Frost Dragon" x="4" y="-3" z="7" spawntime="60" />
 		<monster name="Frost Dragon" x="0" y="3" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="574" centery="1173" centerz="7" radius="1">
-		<monster name="Aigon Dragon" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="575" centery="1173" centerz="7" radius="1">
+		<monster name="Aigon Dragon" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="540" centery="1174" centerz="7" radius="1">
 		<monster name="Aigon Dragon" x="0" y="0" z="7" spawntime="60" />
