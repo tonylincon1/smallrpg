@@ -1,12 +1,12 @@
 exclusives_caves_areas = { -- adicionar as caves
-                       [1] = {name = "Forest Orc", price = 50000000, level = {min = 800, max =1500}, time = 12, premium = true, enter = {x = 607, y = 1003, z = 7}, from = {x = 610, y = 1003, z = 7}, to = {x = 568, y = 1033, z = 7}},
+                       [1] = {name = "Forest Orc", price = 50000000, level = {min = 800, max =1500}, time = 6, premium = true, enter = {x = 607, y = 1003, z = 7}, from = {x = 610, y = 1003, z = 7}, to = {x = 568, y = 1033, z = 7}},
                        }
                        
                                              
 exclusives_caves_config = {
                         storage = 547575,
                         check =  547576,
-                        comand_add_exaust = {hours = 1, storage = 547577}, -- tempo para nao ficar toda hora tirando e colocando amigo
+                        comand_add_exaust = {hours = 3, storage = 547577}, -- tempo para nao ficar toda hora tirando e colocando amigo
                         mensagem = "[Exclusive Cave System] Voc� foi removido ou o tempo da %s cave expirou!",
                         serve_mensagem = "[Exclusive Cave System] A cave %s acabou de ficar liberada para venda por %d Gold's, aproveitem para compra-la no NPC!"
                         }

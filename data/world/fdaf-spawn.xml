@@ -3195,15 +3195,33 @@
 		<monster name="Amazon" x="1" y="3" z="7" spawntime="60" />
 		<monster name="Amazon" x="-3" y="4" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="898" centery="820" centerz="7" radius="1">
+		<monster name="Apprentice Guard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="784" centery="822" centerz="7" radius="5">
 		<monster name="Amazon" x="-3" y="-1" z="7" spawntime="60" />
 		<monster name="Amazon" x="-5" y="1" z="7" spawntime="60" />
 		<monster name="Amazon" x="0" y="4" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="906" centery="822" centerz="7" radius="1">
+		<monster name="Guard Training" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="759" centery="823" centerz="7" radius="5">
 		<monster name="Bear" x="-2" y="-3" z="7" spawntime="60" />
 		<monster name="Bear" x="2" y="1" z="7" spawntime="60" />
 		<monster name="Bear" x="-4" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="923" centery="823" centerz="7" radius="1">
+		<monster name="Warrior Apprentice" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="896" centery="824" centerz="7" radius="1">
+		<monster name="Shooter Guard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="909" centery="825" centerz="7" radius="1">
+		<monster name="Shooter Guard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="913" centery="825" centerz="7" radius="1">
+		<monster name="Apprentice Guard" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="741" centery="828" centerz="7" radius="5">
 		<monster name="Behemoth" x="-2" y="0" z="7" spawntime="60" />
@@ -7662,46 +7680,46 @@
 		<monster name="Poltway" x="-1" y="2" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1276" centery="1140" centerz="8" radius="5">
-		<monster name="orc" x="-5" y="-4" z="8" spawntime="60" />
-		<monster name="orc" x="-4" y="-4" z="8" spawntime="60" />
-		<monster name="orc" x="-3" y="-4" z="8" spawntime="60" />
-		<monster name="orc" x="-2" y="-4" z="8" spawntime="60" />
-		<monster name="orc" x="2" y="-4" z="8" spawntime="60" />
-		<monster name="orc" x="3" y="-4" z="8" spawntime="60" />
-		<monster name="orc" x="4" y="-4" z="8" spawntime="60" />
-		<monster name="orc" x="5" y="-4" z="8" spawntime="60" />
-		<monster name="orc" x="-5" y="-2" z="8" spawntime="60" />
-		<monster name="orc" x="-4" y="-2" z="8" spawntime="60" />
-		<monster name="orc" x="-3" y="-2" z="8" spawntime="60" />
-		<monster name="orc" x="-2" y="-2" z="8" spawntime="60" />
-		<monster name="orc" x="2" y="-2" z="8" spawntime="60" />
-		<monster name="orc" x="3" y="-2" z="8" spawntime="60" />
-		<monster name="orc" x="4" y="-2" z="8" spawntime="60" />
-		<monster name="orc" x="5" y="-2" z="8" spawntime="60" />
-		<monster name="orc" x="-5" y="0" z="8" spawntime="60" />
-		<monster name="orc" x="-4" y="0" z="8" spawntime="60" />
-		<monster name="orc" x="-3" y="0" z="8" spawntime="60" />
-		<monster name="orc" x="-2" y="0" z="8" spawntime="60" />
-		<monster name="orc" x="2" y="0" z="8" spawntime="60" />
-		<monster name="orc" x="3" y="0" z="8" spawntime="60" />
-		<monster name="orc" x="4" y="0" z="8" spawntime="60" />
-		<monster name="orc" x="5" y="0" z="8" spawntime="60" />
-		<monster name="orc" x="-5" y="2" z="8" spawntime="60" />
-		<monster name="orc" x="-4" y="2" z="8" spawntime="60" />
-		<monster name="orc" x="-3" y="2" z="8" spawntime="60" />
-		<monster name="orc" x="-2" y="2" z="8" spawntime="60" />
-		<monster name="orc" x="2" y="2" z="8" spawntime="60" />
-		<monster name="orc" x="3" y="2" z="8" spawntime="60" />
-		<monster name="orc" x="4" y="2" z="8" spawntime="60" />
-		<monster name="orc" x="5" y="2" z="8" spawntime="60" />
-		<monster name="orc" x="-5" y="4" z="8" spawntime="60" />
-		<monster name="orc" x="-4" y="4" z="8" spawntime="60" />
-		<monster name="orc" x="-3" y="4" z="8" spawntime="60" />
-		<monster name="orc" x="-2" y="4" z="8" spawntime="60" />
-		<monster name="orc" x="2" y="4" z="8" spawntime="60" />
-		<monster name="orc" x="3" y="4" z="8" spawntime="60" />
-		<monster name="orc" x="4" y="4" z="8" spawntime="60" />
-		<monster name="orc" x="5" y="4" z="8" spawntime="60" />
+		<monster name="Orc" x="-5" y="-4" z="8" spawntime="60" />
+		<monster name="Orc" x="-4" y="-4" z="8" spawntime="60" />
+		<monster name="Orc" x="-3" y="-4" z="8" spawntime="60" />
+		<monster name="Orc" x="-2" y="-4" z="8" spawntime="60" />
+		<monster name="Orc" x="2" y="-4" z="8" spawntime="60" />
+		<monster name="Orc" x="3" y="-4" z="8" spawntime="60" />
+		<monster name="Orc" x="4" y="-4" z="8" spawntime="60" />
+		<monster name="Orc" x="5" y="-4" z="8" spawntime="60" />
+		<monster name="Orc" x="-5" y="-2" z="8" spawntime="60" />
+		<monster name="Orc" x="-4" y="-2" z="8" spawntime="60" />
+		<monster name="Orc" x="-3" y="-2" z="8" spawntime="60" />
+		<monster name="Orc" x="-2" y="-2" z="8" spawntime="60" />
+		<monster name="Orc" x="2" y="-2" z="8" spawntime="60" />
+		<monster name="Orc" x="3" y="-2" z="8" spawntime="60" />
+		<monster name="Orc" x="4" y="-2" z="8" spawntime="60" />
+		<monster name="Orc" x="5" y="-2" z="8" spawntime="60" />
+		<monster name="Orc" x="-5" y="0" z="8" spawntime="60" />
+		<monster name="Orc" x="-4" y="0" z="8" spawntime="60" />
+		<monster name="Orc" x="-3" y="0" z="8" spawntime="60" />
+		<monster name="Orc" x="-2" y="0" z="8" spawntime="60" />
+		<monster name="Orc" x="2" y="0" z="8" spawntime="60" />
+		<monster name="Orc" x="3" y="0" z="8" spawntime="60" />
+		<monster name="Orc" x="4" y="0" z="8" spawntime="60" />
+		<monster name="Orc" x="5" y="0" z="8" spawntime="60" />
+		<monster name="Orc" x="-5" y="2" z="8" spawntime="60" />
+		<monster name="Orc" x="-4" y="2" z="8" spawntime="60" />
+		<monster name="Orc" x="-3" y="2" z="8" spawntime="60" />
+		<monster name="Orc" x="-2" y="2" z="8" spawntime="60" />
+		<monster name="Orc" x="2" y="2" z="8" spawntime="60" />
+		<monster name="Orc" x="3" y="2" z="8" spawntime="60" />
+		<monster name="Orc" x="4" y="2" z="8" spawntime="60" />
+		<monster name="Orc" x="5" y="2" z="8" spawntime="60" />
+		<monster name="Orc" x="-5" y="4" z="8" spawntime="60" />
+		<monster name="Orc" x="-4" y="4" z="8" spawntime="60" />
+		<monster name="Orc" x="-3" y="4" z="8" spawntime="60" />
+		<monster name="Orc" x="-2" y="4" z="8" spawntime="60" />
+		<monster name="Orc" x="2" y="4" z="8" spawntime="60" />
+		<monster name="Orc" x="3" y="4" z="8" spawntime="60" />
+		<monster name="Orc" x="4" y="4" z="8" spawntime="60" />
+		<monster name="Orc" x="5" y="4" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1222" centery="1145" centerz="8" radius="5">
 		<monster name="Poltway" x="-2" y="2" z="8" spawntime="60" />
