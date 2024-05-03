@@ -19,11 +19,14 @@
   </flags>
   <attacks>
     <attack name="melee" interval="2000" min="-500" max="-1800"/>
-    <attack name="physical" interval="1000" chance="17" range="7" min="-5000" max="-7000">
+    <attack name="physical" interval="1000" chance="17" range="7" min="-1000" max="-2000">
       <attribute key="shootEffect" value="throwingknife"/>
     </attack>
   </attacks>
   <defenses armor="20" defense="30"/>
+  <elements>
+		<element earthPercent="-20"/>
+	</elements>
   <immunities>
     <immunity physical="0"/>
     <immunity energy="0"/>

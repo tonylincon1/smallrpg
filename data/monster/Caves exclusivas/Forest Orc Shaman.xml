@@ -19,11 +19,11 @@
   </flags>
   <attacks>
     <attack name="melee" interval="2000" min="-500" max="-800"/>
-    <attack name="energy" interval="1000" chance="13" range="7" min="-200" max="-1200">
+    <attack name="energy" interval="1000" chance="13" range="7" min="-200" max="-800">
       <attribute key="shootEffect" value="energy"/>
       <attribute key="areaEffect" value="energy"/>
     </attack>
-    <attack name="fire" interval="1000" chance="8" range="7" radius="1" target="1" min="-500" max="-800">
+    <attack name="fire" interval="1000" chance="8" range="7" radius="1" target="1" min="-300" max="-500">
       <attribute key="shootEffect" value="fire"/>
       <attribute key="areaEffect" value="firearea"/>
     </attack>
@@ -33,6 +33,9 @@
       <attribute key="areaEffect" value="blueshimmer"/>
     </defense>
   </defenses>
+  <elements>
+		<element earthPercent="-20"/>
+	</elements>
   <immunities>
     <immunity physical="0"/>
     <immunity energy="1"/>
