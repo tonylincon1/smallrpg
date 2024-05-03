@@ -15259,7 +15259,6 @@
 		<attribute key="defense" value="20" />
 		<attribute key="attack" value="65" />
 		<attribute key="weaponType" value="club" />
-		<attribute key="slotType" value="two-handed" />
 	</item>
 	<item id="8930" article="an" name="emerald sword">
 		<attribute key="weight" value="4100" />
