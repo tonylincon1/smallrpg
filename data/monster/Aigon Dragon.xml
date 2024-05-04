@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Aigon Dragon" nameDescription="o Aigon Dragon" race="undead" experience="41000" speed="410" manacost="0">
 <health now="35000" max="35000"/>
-<look type="351" corpse="11356"/>
+<look type="351" corpse="11357"/>
 <targetchange interval="5000" chance="8"/>
 <strategy attack="100" defense="0"/>
 <flags>
