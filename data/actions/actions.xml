@@ -505,8 +505,13 @@ action fromid="10511" toid="10516" event="script" value="tools/all.lua"/>
 <action uniqueid="6560" script="quests/dominio-de-castelo.lua"/> --- Alavanca Resetadora
 
 <action uniqueid="55100" event="script" value="demonOakGravestone.lua" />
-<action itemid="8306" script="other/upgrade.lua"/>
+<action itemid="8306" event="script" value="upgrade.lua"/>
+<action itemid="8305" event="script" value="upgrade.lua"/>
+<action itemid="7489" script="stamina.lua"/>
+<action itemid="12638" script="exp_potion.lua"/>
 <action actionid="24634" event="script" value="level.lua"/>
+<action itemid="8302" event="script" value="dodgestone.lua"/>
+<action itemid="8303" script="criticalrook.lua"/>
 <action uniqueid="25467" script="questdopiso.lua"/>
 <action uniqueid="25500" script="andardomorga.lua"/>
 <action uniqueid="25502" script="andardoghazba.lua"/>

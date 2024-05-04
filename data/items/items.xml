@@ -12316,10 +12316,6 @@
 		<attribute key="weight" value="200" />
 		<attribute key="description" value="Drinking this potion increases temporarily your fighting skill while decreasing your defense." />
 	</item>
-	<item id="12637" article="a" name="Triple Exp Potion">
-		<attribute key="weight" value="200" />
-		<attribute key="description" value="Depois de tomar sua EXP dobrara durante 1 hora." />
-	</item>
 	<item id="7440" article="a" name="mastermind potion">
 		<attribute key="weight" value="200" />
 		<attribute key="description" value="Drinking this is said to increase your magical skills for a while, but to decrease your defense." />
@@ -12481,7 +12477,7 @@
 	<item id="7488" article="a" name="magic vial">
 		<attribute key="weight" value="280" />
 	</item>
-	<item id="7489" article="a" name="water drink">
+	<item id="7489" article="a" name="Stamina Potion">
 		<attribute key="weight" value="280" />
 	</item>
 	<item id="7490" article="an" name="inkwell">
@@ -14344,19 +14340,27 @@
 		<attribute key="description" value="It has been extracted from an inactive lava hole." />
 		<attribute key="weight" value="50" />
 	</item>
-	<item id="8302" name="iced soil">
+	<item id="8302" name="Dodge Stone">
+		<attribute key="description" value="Te dá um ponto de habilidade em dodge." />
 		<attribute key="weight" value="250" />
 	</item>
-	<item id="8303" name="energy soil">
+	<item id="8303" name="Critical Stone">
+		<attribute key="description" value="Te dá um ponto de habilidade em critical." />
 		<attribute key="weight" value="250" />
 	</item>
 	<item id="8304" name="eternal flames">
 		<attribute key="weight" value="250" />
 	</item>
-	<item id="8305" name="mother soil">
+	<item id="8305" name="Pedra de Refinamento Absoluta">
+		<attribute key="description" value="Essa pedra tem 100% de chance de melhorar seu equipemento/arma." />
 		<attribute key="weight" value="250" />
 	</item>
-	<item id="8306" name="pure energy">
+	<item id="8306" name="Pedra de Refinamento">
+		<attribute key="description" value="Essa pedra tem chance de melhorar seu equipemento/arma (Ou piorar)." />
+		<attribute key="weight" value="100" />
+	</item>
+	<item id="12638" name="Double XP Potion">
+		<attribute key="description" value="Essa poção te dá o dobro da xp durante 2 horas." />
 		<attribute key="weight" value="100" />
 	</item>
 	<item id="8307" name="slain sea serpent">

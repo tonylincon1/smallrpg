@@ -6854,3 +6854,68 @@ access violation (write attempt at 4EA5B49D)
 Sat Apr 27 14:34:03 2024
 Debug Assertion 8.60 NWin32Exception.cpp 50
 
+----- 04/05/2024 15:55:41 - GOD Denis (192.168.0.1) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -9300H @ 
+Video Card: Intel (R) UHD G
+Last Packet Types: 110 109 111 162 160 160 140 131 109 160
+Last Packet: 110 000 038 011 008 000 098 097 099 107 112 097 099 107 020 000
+Player Position: [1024,1034,7]
+Player Name: GOD Denis (Small RPG)
+Player Action: 049 056 054 046 050 049 056 046 053 046 050 048 053 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 110) (MainWindow = 43167848), reason:
+Communication.cpp 2177: exception occurred (Container = 0), reason:
+Objects.cpp 280: exception occurred (Type = 48385) (Flag = 10), reason:
+Objects.cpp 277: assertion failed (Type = 48385) (ObjectProperties->high() = 11703), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Sat May 04 15:53:23 2024
+Debug Assertion 8.60 Objects.cpp 277
+
+----- 04/05/2024 17:16:34 - Perna De Pau (192.168.0.1) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -9300H @ 
+Video Card: Intel (R) UHD G
+Last Packet Types: 110 106 162 030 170 160 162 131 131 162
+Last Packet: 110 000 038 023 015 000 112 105 114 097 116 101 032 098 097 099
+Player Position: [1023,1033,7]
+Player Name: Tony Lincon (Small RPG)
+Player Action: 049 056 054 046 050 049 056 046 053 046 050 048 053 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 110) (MainWindow = 9876592), reason:
+Communication.cpp 2177: exception occurred (Container = 0), reason:
+Objects.cpp 280: exception occurred (Type = 48385) (Flag = 10), reason:
+Objects.cpp 277: assertion failed (Type = 48385) (ObjectProperties->high() = 11703), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Sat May 04 17:16:20 2024
+Debug Assertion 8.60 Objects.cpp 277
+
+----- 04/05/2024 17:29:49 - GOD Denis (192.168.0.1) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -9300H @ 
+Video Card: Intel (R) UHD G
+Last Packet Types: 100 112 180 109 109 030 109 106 109 108
+Last Packet: 180 018 008 000 047 105 032 049 050 054 051 056 112 000 100 044
+Player Position: [1024,1034,7]
+Player Name: GOD Denis (Small RPG)
+Player Action: 049 056 054 046 050 049 056 046 053 046 050 048 053 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 100) (MainWindow = 44073272), reason:
+Communication.cpp 1681: exception occurred (PlayerX = 38560) (PlayerY = 38400), reason:
+Communication.cpp 1659: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 1638: exception occurred (Type = 16960) (OldType = 0), reason:
+Objects.cpp 280: exception occurred (Type = 16960) (Flag = 10), reason:
+Objects.cpp 277: assertion failed (Type = 16960) (ObjectProperties->high() = 11703), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Sat May 04 17:28:11 2024
+Debug Assertion 8.60 Objects.cpp 277
+

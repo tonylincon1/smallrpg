@@ -1,5 +1,5 @@
 exclusives_caves_areas = { -- adicionar as caves
-                       [1] = {name = "Forest Orc", price = 50000000, level = {min = 800, max =1500}, time = 6, premium = true, enter = {x = 607, y = 1003, z = 7}, from = {x = 610, y = 1003, z = 7}, to = {x = 568, y = 1033, z = 7}},
+                       [1] = {name = "Forest Orc", price = 50000000, level = {min = 1000, max =1800}, time = 6, premium = true, enter = {x = 607, y = 1003, z = 7}, from = {x = 610, y = 1003, z = 7}, to = {x = 568, y = 1033, z = 7}},
                        }
                        
                                              

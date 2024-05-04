@@ -30,4 +30,8 @@
 	<event type="PrepareDeath" name="pvparena" script="pvparena.lua"/>
 	<event type="attack" name="attackguild" script="attackguild.lua"/>
 	<event type="death" name="incendio" script="incendioMonster.lua"/>
+	<event type="login" name="exp_potion" event="script" value="exp_potion_login.lua"/>
+
+	<event type="statschange" name="critical" event="script" value="critical.lua"/>
+	<event type="statschange" name="dodge" event="script" value="dodge.lua"/>
         </creaturescripts>

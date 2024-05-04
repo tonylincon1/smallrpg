@@ -26,7 +26,7 @@
 <attribute key="shootEffect" value="suddendeath"/>
 <attribute key="areaEffect" value="mortarea"/>
 </attack>
-		<attack name="speed" interval="1000" chance="10" range="7" speedchange="-100" duration="20000">
+		<attack name="speed" interval="1000" chance="10" range="7" speedchange="-50" duration="200">
 			<attribute key="areaEffect" value="redshimmer"/>
 		</attack>
 <attack name="lifedrain" interval="2000" chance="21" radius="6" target="0" min="-1000" max="-1100">

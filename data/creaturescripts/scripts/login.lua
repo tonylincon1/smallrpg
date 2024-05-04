@@ -34,7 +34,15 @@ function onLogin(cid)
 
 	registerCreatureEvent(cid, "Mail")
 	registerCreatureEvent(cid, "GuildMotd")
-	
+
+    registerCreatureEvent(cid, "critical")
+    if getPlayerStorageValue(cid, 48913) == -1 then
+            setPlayerStorageValue(cid, 48913, 0) 
+        end 
+    registerCreatureEvent(cid, "dodge")
+    if getPlayerStorageValue(cid, 48902) == -1 then
+        setPlayerStorageValue(cid, 48902, 0) 
+    end
 registerCreatureEvent(cid, "killer")
 registerCreatureEvent(cid, "Idle")
 

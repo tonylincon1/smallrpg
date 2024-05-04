@@ -10,7 +10,7 @@ end
 return d 
 end
 if isPlayer(thing.uid) then
-doPlayerSetSpecialDescription(thing.uid, "\n"..(getPlayerSex(thing.uid) == 0 and "She" or "He").." has Killed: ["..getDeathsAndKills(thing.uid, "kill").."] Players.\n"..(getPlayerSex(thing.uid) == 0 and "She" or "He").." has Died: ["..getDeathsAndKills(thing.uid, "death").."] Times")
+    doPlayerSetSpecialDescription(thing.uid,' [Frags: '..getPlayerFrags(thing.uid)..'], [Critical: '..math.max(0,(tonumber(getCreatureStorage(thing.uid,48913)) or 0))..'], [Dodge: '..math.max(0,(tonumber(getCreatureStorage(thing.uid,48902)) or 0))..']')
 end
 return true
 end
